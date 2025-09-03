@@ -1,0 +1,3 @@
+I read that the resulting endotoxemia chronically activates systemic monocytes, skewing the peripheral T‑cell profile toward a Th17/Th1 dominance while suppressing regulatory T‑cell (Treg) expansion.
+
+Write a technical essay that defines endotoxemia, and discuss the peripheral T‑cell profile. What is Th17/Th1 ? If their is Th17/Th1 dominance, what are the other ones? What happens when we have Th17/Th1 dominance ? What does it mean that it's suppressing regulatory T‑cell (Treg) expansion ? What is regulatory T-cell ? What is expansion ?

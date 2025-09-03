@@ -1,0 +1,3 @@
+I read that ectopic endometrial tissue secretes estrogen‑responsive cytokines that accumulate in the peritoneal fluid, increasing osmotic pressure and driving ascitic expansion.
+
+Is it that the secretion of the cytokines implies increasing osmotic pressure and driving ascitic expansion, or is that there's another cause that produces peritoneal fluid which increasing osmotic pressure and driving ascitic expansion ? I don't understand how the cytokines would lead to an increase osmotic pressure and ascitic expansion. What is the mechanism for that ?
