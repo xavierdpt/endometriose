@@ -16,11 +16,11 @@ Granulocyte-macrophage colony-stimulating factor (GM-CSF) also plays a crucial r
 
 During tissue injury or infection, various chemokines recruit monocytes to affected sites. Monocyte chemoattractant protein-1 (MCP-1/CCL2) is a key chemokine that attracts monocytes to sites of inflammation through interaction with the CCR2 receptor. Other chemokines like CCL3, CCL4, and CCL5 also contribute to monocyte recruitment and subsequent macrophage differentiation.
 
-The movement of monocytes from the bloodstream to tissue sites involves a coordinated multi-step process called diapedesis. Initially, circulating monocytes are captured and undergo rolling adhesion along activated endothelium through interactions between selectins (P-selectin, E-selectin) on endothelial cells and their carbohydrate ligands on monocytes. Chemokines presented on the endothelial surface then activate monocyte integrins, particularly LFA-1 and VLA-4, which bind strongly to endothelial adhesion molecules like ICAM-1 and VCAM-1, causing firm arrest of the monocytes. The arrested monocytes then migrate along the endothelium to locate appropriate sites for transmigration, where they transit between endothelial cell junctions (paracellular route) or through individual endothelial cells (transcellular route). Once in the tissue, monocytes continue following chemokine concentration gradients through chemotaxis, using cytoskeletal reorganization and integrin-matrix interactions to navigate toward the inflammation site, where they differentiate into tissue macrophages.
+The detailed process of monocyte migration from bloodstream to tissues is described in [monocyte-journey.md](monocyte-journey.md).
 
 ## Tissue Distribution and Specialization
 
-Macrophages are anatomically distributed throughout the body, with each tissue harboring specialized populations adapted to local microenvironments. Alveolar macrophages in the lungs are responsible for clearing inhaled particles and maintaining pulmonary homeostasis. These cells are adapted to the oxygen-rich environment and have specialized surfactant processing capabilities.
+Macrophages are distributed throughout the body, with each tissue harboring specialized populations adapted to local microenvironments. Alveolar macrophages in the lungs are responsible for clearing inhaled particles and maintaining pulmonary homeostasis. These cells are adapted to the oxygen-rich environment and have specialized surfactant processing capabilities.
 
 Kupffer cells in the liver serve as the body's primary filtration system for blood-borne pathogens and toxins. They line the hepatic sinusoids and capture and process materials from the portal circulation. Splenic macrophages in the red pulp remove aged red blood cells and recycle iron, while marginal zone macrophages capture blood-borne antigens and present them to adaptive immune cells.
 
@@ -28,7 +28,7 @@ Microglial cells in the central nervous system are the brain's resident macropha
 
 ## Activation States and Polarization
 
-Macrophages exhibit remarkable plasticity and can adopt different activation states in response to environmental cues. The classical M1 activation state, triggered by interferon-gamma (IFN-γ) and lipopolysaccharide (LPS), promotes pro-inflammatory responses and antimicrobial functions. M1 macrophages produce high levels of nitric oxide, reactive oxygen species, and inflammatory cytokines like tumor necrosis factor-alpha (TNF-α), interleukin-1 beta (IL-1β), and interleukin-6 (IL-6).
+Macrophages exhibit plasticity and can adopt different activation states in response to environmental cues. The classical M1 activation state, triggered by interferon-gamma (IFN-γ) and lipopolysaccharide (LPS), promotes pro-inflammatory responses and antimicrobial functions. M1 macrophages produce high levels of nitric oxide, reactive oxygen species, and inflammatory cytokines like tumor necrosis factor-alpha (TNF-α), interleukin-1 beta (IL-1β), and interleukin-6 (IL-6).
 
 The alternative M2 activation state encompasses several subpopulations with distinct functions. M2a macrophages, induced by interleukin-4 (IL-4) and interleukin-13 (IL-13), promote tissue repair and wound healing. They produce anti-inflammatory cytokines like interleukin-10 (IL-10) and transforming growth factor-beta (TGF-β), along with factors that promote angiogenesis and collagen synthesis.
 
@@ -40,7 +40,7 @@ The hallmark function of macrophages is phagocytosis, the process of engulfing a
 
 Once bound, targets are internalized through receptor-mediated endocytosis or phagocytosis, forming membrane-bound vesicles called phagosomes. These phagosomes fuse with lysosomes to form phagolysosomes, creating an acidic and enzyme-rich environment for degradation. Lysosomal enzymes, including proteases, lipases, and nucleases, break down ingested materials into basic components.
 
-The phagolysosomal environment also contains antimicrobial compounds like reactive oxygen species and nitric oxide that help eliminate pathogens. Macrophages can generate respiratory bursts through NADPH oxidase activation, producing superoxide anions and hydrogen peroxide that contribute to pathogen killing. This intracellular processing capability makes macrophages highly effective at eliminating a wide range of threats.
+The phagolysosomal environment also contains antimicrobial compounds like reactive oxygen species and nitric oxide that help eliminate pathogens. Macrophages can generate respiratory bursts through NADPH oxidase activation, producing superoxide anions and hydrogen peroxide that contribute to pathogen killing. This intracellular processing capability makes macrophages effective at eliminating a wide range of threats.
 
 ## Antigen Presentation and Adaptive Immunity
 
@@ -52,7 +52,7 @@ In some contexts, macrophages can also cross-present antigens on MHC class I mol
 
 ## Secretory Functions and Tissue Regulation
 
-Macrophages are prolific secretory cells that produce a vast array of bioactive molecules. These secreted factors include cytokines that regulate inflammation and immune responses, growth factors that promote tissue repair and angiogenesis, and enzymes that remodel extracellular matrix. The specific secretory profile depends on the macrophage's activation state and tissue environment.
+Macrophages are secretory cells that produce a vast array of bioactive molecules. These secreted factors include cytokines that regulate inflammation and immune responses, growth factors that promote tissue repair and angiogenesis, and enzymes that remodel extracellular matrix. The specific secretory profile depends on the macrophage's activation state and tissue environment.
 
 Pro-inflammatory cytokines like TNF-α, IL-1β, and IL-6 coordinate local inflammatory responses and recruit additional immune cells. Anti-inflammatory mediators such as IL-10 and TGF-β help resolve inflammation and promote tissue healing. Growth factors like vascular endothelial growth factor (VEGF) and platelet-derived growth factor (PDGF) stimulate angiogenesis and fibroblast proliferation.
 
@@ -60,7 +60,7 @@ Matrix metalloproteinases (MMPs) secreted by macrophages can degrade extracellul
 
 ## Apoptotic Cell Clearance
 
-One of the most important homeostatic functions of macrophages is the clearance of apoptotic cells, a process called efferocytosis. This function is crucial for maintaining tissue health and preventing the accumulation of dead cells that could trigger inflammatory responses. Apoptotic cells display "eat-me" signals, such as phosphatidylserine exposure on their outer membrane, that are recognized by macrophage receptors.
+One of the important homeostatic functions of macrophages is the clearance of apoptotic cells, a process called efferocytosis. This function is crucial for maintaining tissue health and preventing the accumulation of dead cells that could trigger inflammatory responses. Apoptotic cells display "eat-me" signals, such as phosphatidylserine exposure on their outer membrane, that are recognized by macrophage receptors.
 
 The clearance of apoptotic cells is anti-inflammatory, as it prevents the release of intracellular contents that could act as danger signals. Macrophages that have ingested apoptotic cells often adopt an anti-inflammatory phenotype and produce immunosuppressive cytokines. This process is essential for the resolution of inflammation and maintenance of tissue homeostasis.
 
@@ -68,9 +68,9 @@ Defects in efferocytosis can contribute to various pathological conditions, incl
 
 ## Metabolic Regulation and Energy Production
 
-Macrophage activation states are closely linked to distinct metabolic programs that support their specific functions. M1 macrophages predominantly utilize glycolysis for energy production, which supports rapid ATP generation needed for inflammatory responses and antimicrobial functions. This metabolic switch, known as the Warburg effect, allows for quick energy production but is less efficient than oxidative phosphorylation.
+Macrophage activation states are closely linked to distinct metabolic programs that support their specific functions. M1 macrophages utilize glycolysis for energy production, which supports rapid ATP generation needed for inflammatory responses and antimicrobial functions. This metabolic switch, known as the Warburg effect, allows for quick energy production but is less efficient than oxidative phosphorylation.
 
-M2 macrophages, in contrast, rely primarily on oxidative phosphorylation and fatty acid oxidation for energy production. This metabolic program supports the sustained energy requirements for tissue repair and anti-inflammatory functions. The shift towards oxidative metabolism also produces metabolites that can influence macrophage function and signaling pathways.
+M2 macrophages, in contrast, rely on oxidative phosphorylation and fatty acid oxidation for energy production. This metabolic program supports the sustained energy requirements for tissue repair and anti-inflammatory functions. The shift towards oxidative metabolism also produces metabolites that can influence macrophage function and signaling pathways.
 
 These metabolic differences are not consequences of activation but contribute to functional specialization. Metabolic enzymes and pathways can regulate macrophage activation states, creating feedback loops between metabolism and function. Understanding these metabolic programs has important implications for therapeutic interventions targeting macrophage function.
 
@@ -84,7 +84,7 @@ Macrophages also interact with other cell types during healing, including endoth
 
 ## Destruction and Cell Death Pathways
 
-Macrophages can undergo various forms of cell death, depending on the stimuli and cellular context. Apoptosis is the most common form of programmed cell death in macrophages, triggered by growth factor withdrawal, DNA damage, or completion of their functional role. The intrinsic apoptotic pathway involves mitochondrial dysfunction and cytochrome c release, while the extrinsic pathway is triggered by death receptors like Fas.
+Macrophages can undergo various forms of cell death, depending on the stimuli and cellular context. Apoptosis is the common form of programmed cell death in macrophages, triggered by growth factor withdrawal, DNA damage, or completion of their functional role. The intrinsic apoptotic pathway involves mitochondrial dysfunction and cytochrome c release, while the extrinsic pathway is triggered by death receptors like Fas.
 
 Pyroptosis is an inflammatory form of programmed cell death that can occur in macrophages infected with certain pathogens. This process involves the activation of inflammasomes, particularly the NLRP3 inflammasome, leading to caspase-1 activation and the release of inflammatory cytokines IL-1β and IL-18. Pyroptosis helps eliminate infected cells but can also contribute to tissue damage in excessive inflammatory responses.
 
