@@ -1,7 +1,3 @@
-leaky gut
-endotoxemia
-immune activation
-hs-CRP
 TNF‑α
 IL‑1β
 NF‑κB pathway

@@ -1,6 +1,6 @@
-Generate an entry for  flagellin using these instructions.
+Generate an entry for TNF‑α using these instructions.
 
-**Prompt for “Entry‑Generator”**  
+**Prompt for “Entry‑Generator”**   
 
 > **Task**  
 >  Produce a concise, encyclopedic entry for the subject given in the *Title*.  The output must **begin with an introductory paragraph** (2–3 sentences) that gives a quick, high‑level overview.  This paragraph comes first, followed by the structured sections below.  
@@ -21,7 +21,7 @@ Generate an entry for  flagellin using these instructions.
 
 > **Required Sections (modifiable per subject)**  
 
-> ### 1. Introductory Summary  
+> ### 1. Introductory Summary  (removed, duplicate with introductory paragraph below)
 >  · 2–3 sentences giving a high‑level snapshot of the subject’s identity, main role, and importance.  
 
 > ### 2. Location & Context  
