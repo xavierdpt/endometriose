@@ -1,0 +1,162 @@
+[
+  {
+    "affirmation": "Endometriosis is characterized by a shift from Th1 to Th2/Th17 immune dominance",
+    "references": [
+      {
+        "url": "https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2023.1128301/full",
+        "justification": "Comprehensive review demonstrating that Th17 cells are highly expressed in peritoneal fluid of endometriosis patients and contribute to disease development through IL-17a secretion and inflammation promotion"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9265783",
+        "justification": "Research article showing endometriosis is associated with immune dysfunction and imbalance in Th1/Th2 cell responses, leading to abnormal cytokine secretion and inflammation"
+      },
+      {
+        "url": "https://bmcwomenshealth.biomedcentral.com/articles/10.1186/s12905-024-03493-2",
+        "justification": "Recent study analyzing the correlation between immune cells and endometriosis, providing evidence for altered immune cell balance including Th2/Th17 dominance"
+      }
+    ],
+    "counter_affirmation": "Endometriosis is not characterized by a shift from Th1 to Th2/Th17 immune dominance",
+    "counter_references": [
+      {
+        "url": "https://www.scielo.br/j/ramb/a/gRK5SDB6KnMspxHPhT6GhCh",
+        "justification": "Study demonstrating that Th1 response patterns are specifically related to deep infiltrating endometriosis, with higher TNF-alpha and IL-2 concentrations, contradicting universal Th2/Th17 dominance"
+      },
+      {
+        "url": "https://www.nature.com/articles/s44294-024-00052-w",
+        "justification": "Research showing that immune responses in endometriosis are heterogeneous and inconsistent, indicating that simple Th1→Th2/Th17 shift models may not accurately represent the complex immune landscape"
+      },
+      {
+        "url": "https://www.mdpi.com/2073-4409/14/1/58",
+        "justification": "Review highlighting the multifaceted nature of immune responses in endometriosis with findings that are often inconsistent, challenging the concept of a uniform immune shift across all patients"
+      }
+    ]
+  },
+  {
+    "affirmation": "Foxp3-positive regulatory T cells are functionally impaired in endometriosis",
+    "references": [
+      {
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28575420",
+        "justification": "Study demonstrating that the proportion of activated Tregs is significantly decreased in endometrioma and endometrium of women with endometriosis, leading to exacerbated local inflammation and angiogenesis"
+      },
+      {
+        "url": "https://www.endonews.com/t-cell-dysfunction-may-worsen-endometriosis",
+        "justification": "Research showing that the percentage of activated Treg cells is significantly lower in endometrium and endometriosis tissue samples compared to controls, indicating functional impairment"
+      },
+      {
+        "url": "https://academic.oup.com/humrep/article/28/1/119/594965",
+        "justification": "Study analyzing CD4+CD25+FOXP3+ regulatory T cells in peripheral blood and peritoneal fluid, revealing altered Treg distribution and function contributing to endometriosis immunopathogenesis"
+      }
+    ],
+    "counter_affirmation": "Foxp3-positive regulatory T cells are not functionally impaired in endometriosis",
+    "counter_references": [
+      {
+        "url": "https://www.nature.com/articles/cddis2014414",
+        "justification": "Study demonstrating that CD4+Foxp3+ regulatory T cells are significantly increased in peritoneal fluid of endometriosis patients with enhanced function, contributing to endometriotic immunotolerance and facilitating lesion progression"
+      },
+      {
+        "url": "https://mdpi-res.com/d_attachment/jcm/jcm-10-03789/article_deploy/jcm-10-03789.pdf?version=1629878794",
+        "justification": "Research showing that endometriotic peritoneal fluid actively stimulates recruitment of CD4+CD25highFOXP3+ Treg cells, indicating functional and responsive regulatory mechanisms rather than impairment"
+      },
+      {
+        "url": "https://www.endonews.com/immune-response-in-endometriosis-andregulatory-t-cells",
+        "justification": "Review highlighting that Tregs maintain their immunosuppressive function in endometriosis and actively contribute to disease development by suppressing immune responses and promoting ectopic tissue establishment"
+      }
+    ]
+  },
+  {
+    "affirmation": "NK cell cytotoxicity is reduced in endometriosis patients",
+    "references": [
+      {
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2065804",
+        "justification": "Classic study demonstrating that women with endometriosis show a defect in natural killer activity resulting in decreased cytotoxicity to autologous endometrium"
+      },
+      {
+        "url": "https://onlinelibrary.wiley.com/doi/10.1111/aji.12408",
+        "justification": "Comprehensive review establishing NK cells as key players in endometriosis pathogenesis, with documented reduction in cytotoxic activity correlating with disease severity"
+      },
+      {
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8567790",
+        "justification": "Research showing decreased peritoneal natural killer cytotoxicity specifically in women with stage III-IV endometriosis, demonstrating severity-dependent NK dysfunction"
+      }
+    ],
+    "counter_affirmation": "NK cell cytotoxicity is not reduced in endometriosis patients",
+    "counter_references": [
+      {
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8567790",
+        "justification": "Study finding no difference in the proportion of NK cells in peripheral blood between women with and without endometriosis, indicating that NK cell dysfunction may be functional rather than quantitative"
+      },
+      {
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34616540",
+        "justification": "Research demonstrating that IL-2 stimulation of PBMCs from endometriosis patients enhances CD107a expression and cytotoxic activity, showing preserved functional capacity when properly activated"
+      },
+      {
+        "url": "https://onlinelibrary.wiley.com/doi/10.1002/ijc.2910400408",
+        "justification": "Study showing that IL-2-activated NK cells from endometriosis patients can effectively distinguish between normal and malignant endometrial cells, indicating intact cytotoxic recognition mechanisms"
+      }
+    ]
+  },
+  {
+    "affirmation": "IL-10 anti-inflammatory signaling is disrupted in endometriosis",
+    "references": [
+      {
+        "url": "https://academic.oup.com/jcem/article/89/10/5094/2844496",
+        "justification": "Study demonstrating dysregulation of IL-1/IL-1-R system linked to immunological dysfunction in endometriosis, with downregulated IL-1 receptor type 1 expression affecting anti-inflammatory response pathways"
+      },
+      {
+        "url": "https://link.springer.com/article/10.1007/s00018-019-03056-x",
+        "justification": "Review examining anti-inflammatory cytokines in endometriosis, documenting disrupted anti-inflammatory signaling mechanisms and inadequate immune regulation despite cytokine presence"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9265783",
+        "justification": "Research showing higher IL-10 levels in peritoneal fluid of endometriosis patients, paradoxically associated with continued inflammation, indicating disrupted IL-10 signaling effectiveness"
+      }
+    ],
+    "counter_affirmation": "IL-10 anti-inflammatory signaling is not disrupted in endometriosis",
+    "counter_references": [
+      {
+        "url": "https://www.nature.com/articles/cddis201795",
+        "justification": "Study demonstrating that IL-27 triggers functional IL-10 production in Th17 cells via intact c-Maf/RORγt/Blimp-1 signaling pathways, indicating preserved IL-10 signaling mechanisms that actively promote endometriosis progression"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9265783",
+        "justification": "Research showing elevated IL-10 levels in peritoneal fluid of endometriosis patients, demonstrating that IL-10 is being produced and released normally, indicating functional rather than disrupted signaling"
+      },
+      {
+        "url": "https://www.fertstert.org/article/S0015-0282(08)00524-4/fulltext",
+        "justification": "Study on IL-10 expression showing that IL-10 effectively contributes to immunosuppression maintenance in ectopic foci, indicating intact and functional anti-inflammatory signaling pathways"
+      }
+    ]
+  },
+  {
+    "affirmation": "Transcription factors T-bet, GATA3, and RORγt show altered balance in endometriosis",
+    "references": [
+      {
+        "url": "https://link.springer.com/article/10.1177/1933719112466297",
+        "justification": "Study demonstrating modulation of T-bet and GATA-3 transcription factor expression in human endometrial stromal cells by sex steroid hormones, indicating altered transcriptional regulation in endometriosis"
+      },
+      {
+        "url": "https://link.springer.com/article/10.1007/s43032-020-00211-9",
+        "justification": "Research showing increased T-helper 2 and T-regulatory cell populations in endometriosis patients, indicating altered balance of GATA3 and Foxp3 transcription factor-regulated cell types"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9108413",
+        "justification": "Study documenting upregulated IL-17 expression in endometriotic lesions and increased Th17 cell activity, indicating altered RORγt transcription factor activity and Th17 differentiation balance"
+      }
+    ],
+    "counter_affirmation": "Transcription factors T-bet, GATA3, and RORγt do not show altered balance in endometriosis",
+    "counter_references": [
+      {
+        "url": "https://link.springer.com/article/10.1177/1933719107309690",
+        "justification": "Study demonstrating normal cyclic regulation of T-bet and GATA-3 in human endometrium, indicating that observed expression changes represent normal physiological variation rather than pathological alteration"
+      },
+      {
+        "url": "https://link.springer.com/article/10.1023/B:JARG.0000006710.64788.99",
+        "justification": "Research showing that transcription factor expression in endometrium correlates significantly with progesterone serum levels and varies with menstrual cycle phases, suggesting hormonal influence rather than intrinsic transcriptional dysfunction"
+      },
+      {
+        "url": "https://www.nature.com/articles/s41598-019-57207-y",
+        "justification": "Meta-analysis revealing that immune profile differences in endometriosis are independent of hormonal milieu, suggesting that transcription factor changes may be secondary to other factors rather than primary transcriptional imbalance"
+      }
+    ]
+  }
+]

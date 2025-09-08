@@ -1,0 +1,130 @@
+[
+  {
+    "affirmation": "Endometriosis-associated adhesions mechanically impair bowel motility",
+    "references": [
+      {
+        "url": "https://www.alexandramiddleton.com.au/how-to-break-down-endometriosis-adhesions",
+        "justification": "Clinical evidence showing that endometriosis-related pelvic adhesions can mechanically restrict the intestines' natural movement, directly affecting peristalsis and the wave-like muscle contractions that move food through the digestive tract, leading to bowel dysfunction and altered motility patterns"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5295619",
+        "justification": "Medical review documenting that adhesions, or bands of scar tissue, can form between abdominal organs and tissues causing them to stick together, potentially leading to mechanical bowel obstruction, altered bowel habits like constipation or diarrhea, and restricted normal intestinal movement"
+      },
+      {
+        "url": "https://drseckin.com/bowel-endometriosis",
+        "justification": "Clinical documentation showing that bowel endometriosis causes inflammation, scarring, and mechanical changes in bowel motility, with adhesions contributing to abdominal pain, bloating, and impaired intestinal function through direct physical restriction of bowel movement"
+      }
+    ],
+    "counter_affirmation": "Endometriosis-associated adhesions do not mechanically impair bowel motility",
+    "counter_references": [
+      {
+        "url": "https://centerforendo.com/endometriosis-and-bowel-symptoms",
+        "justification": "Clinical evidence showing that bowel symptoms in endometriosis are primarily caused by prostaglandins released from endometriotic implants affecting smooth muscle contractility, rather than mechanical adhesion-related motility disruption, indicating biochemical rather than structural causes"
+      },
+      {
+        "url": "https://drbrighten.com/endometriosis-and-ibs",
+        "justification": "Research demonstrating that endometriosis-related GI symptoms result from prostaglandins and hormone-like substances released by endometrial tissue contributing to diarrhea and bowel cramps, rather than mechanical obstruction from adhesions, with symptoms following hormonal cycles"
+      },
+      {
+        "url": "https://www.verywellhealth.com/endometriosis-or-ibs-1945368",
+        "justification": "Documentation of significant symptom overlap between endometriosis and irritable bowel syndrome (IBS), suggesting that GI symptoms in endometriosis represent functional disorders with hormonal and inflammatory causes rather than mechanical motility impairment from adhesions"
+      }
+    ]
+  },
+  {
+    "affirmation": "Inflammatory mediators from endometriotic lesions disrupt enteric nervous system function",
+    "references": [
+      {
+        "url": "https://jneuroinflammation.biomedcentral.com/articles/10.1186/s12974-020-01752-1",
+        "justification": "Research demonstrating the interaction between autonomic nervous system and inflammation in endometriosis-associated pain, showing how inflammatory mediators from endometriotic lesions create an inflammatory microenvironment that affects nervous system function and pain processing"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7826862",
+        "justification": "Study documenting that inflammatory factors including interleukins, chemokines, and prostaglandins from endometriotic lesions can stimulate sensory nerve endings and disrupt normal nervous system function, directly linking inflammatory mediators to enteric nervous system disruption"
+      },
+      {
+        "url": "https://www.mdpi.com/1422-0067/26/4/1770",
+        "justification": "Research showing that gut dysbiosis associated with endometriosis causes increased inflammatory cytokines that can disrupt the intestinal barrier and affect enteric nervous system function through inflammatory pathway activation"
+      }
+    ],
+    "counter_affirmation": "Inflammatory mediators from endometriotic lesions do not disrupt enteric nervous system function",
+    "counter_references": [
+      {
+        "url": "https://www.hilarispublisher.com/open-access/bowel-symptoms-in-endometriosis-understanding-the-gastrointestinal-impact-100403.html",
+        "justification": "Research showing that endometriosis causes gastrointestinal symptoms through direct mechanical effects, hormonal fluctuations, and local tissue inflammation rather than through disruption of enteric nervous system function, with symptoms attributed to physical presence of endometrial tissue and prostaglandin release"
+      },
+      {
+        "url": "https://www.drcarlosequezada.com/education/endometriosis-and-gastrointestinal-symptomsa-link",
+        "justification": "Clinical evidence demonstrating that GI symptoms in endometriosis, including bloating and altered bowel habits, are indistinguishable from Irritable Bowel Syndrome and result from hormonal cyclical changes and direct tissue effects rather than enteric nervous system disruption"
+      },
+      {
+        "url": "https://www.mayoclinic.org/diseases-conditions/endometriosis/symptoms-causes/syc-20354656",
+        "justification": "Medical documentation indicating that endometriosis-related gastrointestinal symptoms result from direct implantation of endometrial tissue, mechanical compression, and hormonal influences during menstrual cycles, without specific mention of enteric nervous system dysfunction as a causative mechanism"
+      }
+    ]
+  },
+  {
+    "affirmation": "Serotonin signaling is altered in endometriosis patients affecting GI motility",
+    "references": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11227073",
+        "justification": "Research demonstrating that endometriosis is associated with digestive disturbances and bloating, and can be comorbid with irritable bowel syndrome (IBS), conditions where altered serotonin signaling affects gastrointestinal motility and function"
+      },
+      {
+        "url": "https://www.gastrojournal.org/article/S0016-5085(04)00379-8/fulltext",
+        "justification": "Study showing that altered levels of serotonin signaling are involved in altered motility, secretion, and sensation in gastrointestinal conditions like ulcerative colitis and IBS, which frequently co-occur with endometriosis"
+      },
+      {
+        "url": "https://www.mdpi.com/2076-3417/14/20/9383",
+        "justification": "Research documenting that gut microbiota produces neurotransmitters like serotonin, and dysbiosis in the gut microbiota correlates with altered tryptophan levels and shifts in serotonin pathway metabolites, linking endometriosis-associated gut dysbiosis to altered serotonin signaling"
+      }
+    ],
+    "counter_affirmation": "Serotonin signaling is not altered in endometriosis patients and does not affect GI motility",
+    "counter_references": [
+      {
+        "url": "https://www.lagyndr.com/endometriosis/endometriosis-and-gastrointestinal-symptoms",
+        "justification": "Clinical evidence showing that GI symptoms in endometriosis can occur independently of the location of endometriotic lesions in relation to the bowel, suggesting hormonal and prostaglandin-mediated mechanisms rather than specific alterations in serotonin signaling as the primary cause of GI dysfunction"
+      },
+      {
+        "url": "https://www.hilarispublisher.com/open-access/bowel-symptoms-in-endometriosis-understanding-the-gastrointestinal-impact-100403.html",
+        "justification": "Research documenting that endometriosis causes GI symptoms through hormonal fluctuations, inflammation, and direct tissue effects rather than through specific neurotransmitter disruption, with emphasis on estrogen-dependent inflammatory processes as the primary mechanism"
+      },
+      {
+        "url": "https://www.endofound.org/gastrointestinal-distress",
+        "justification": "Medical documentation indicating that endometriosis-related GI symptoms result from hormonal changes during menstrual cycles and inflammatory processes, with symptoms often misdiagnosed as IBS, suggesting overlapping but distinct pathophysiological mechanisms not specifically involving altered serotonin signaling"
+      }
+    ]
+  },
+  {
+    "affirmation": "Nitric oxide synthase inhibition contributes to GI dysfunction in endometriosis",
+    "references": [
+      {
+        "url": "https://ncbi.nlm.nih.gov/pmc/articles/PMC8470306",
+        "justification": "Research demonstrating that nitric oxide acts as a non-adrenergic, non-cholinergic inhibitory neurotransmitter regulating smooth muscle relaxation and GI motility, suggesting that any disruption or inhibition of NO signaling could contribute to gastrointestinal dysfunction"
+      },
+      {
+        "url": "https://eurekaselect.com/article/9886",
+        "justification": "Study showing that nitric oxide plays a crucial role in the regulation of intestinal peristalsis and gastric emptying, indicating that NOS inhibition or functional impairment could directly contribute to GI motility disorders in endometriosis"
+      },
+      {
+        "url": "https://gut.bmj.com/content/44/1/72",
+        "justification": "Evidence demonstrating that nitric oxide mechanisms regulate small intestinal motility in humans, supporting the concept that impaired NO signaling through NOS inhibition could be a mechanism contributing to GI dysfunction in endometriosis patients"
+      }
+    ],
+    "counter_affirmation": "Nitric oxide synthase is not inhibited in endometriosis and does not contribute to GI dysfunction",
+    "counter_references": [
+      {
+        "url": "https://www.medsci.org/v10p1199.pdf",
+        "justification": "Research demonstrating that expression of inducible nitric oxide synthase (iNOS) and endothelial NOS (eNOS) are significantly higher in women with endometriosis compared to those without the condition, indicating increased rather than inhibited NOS activity"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4418368",
+        "justification": "Study showing that nitric oxide levels are elevated in women with chronic pelvic pain secondary to endometriosis, and these levels correlate with pain intensity, suggesting increased rather than decreased NO production and NOS activity"
+      },
+      {
+        "url": "https://www.mdpi.com/2076-3921/14/3/247",
+        "justification": "Comprehensive review documenting the complex role of NO in endometriosis, showing associations between higher levels of NO and NOS with the condition, contradicting the concept of NOS inhibition as a primary mechanism in endometriosis pathophysiology"
+      }
+    ]
+  }
+]

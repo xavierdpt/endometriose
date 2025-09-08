@@ -1,0 +1,130 @@
+[
+  {
+    "affirmation": "SIBO in endometriosis patients leads to increased LPS and flagellin release from gram-negative bacteria",
+    "references": [
+      {
+        "url": "https://mdpi-res.com/d_attachment/microorganisms/microorganisms-10-00960/article_deploy/microorganisms-10-00960-v2.pdf",
+        "justification": "Study demonstrating that small intestinal bacterial overgrowth (SIBO) can form an indigenous proinflammatory environment in the duodenum with elevated inflammatory cytokines, supporting the mechanism by which SIBO in endometriosis patients leads to increased release of bacterial inflammatory components including LPS from gram-negative bacteria"
+      },
+      {
+        "url": "https://journals.sagepub.com/doi/10.5301/je.5000229",
+        "justification": "Research on bacterial contamination hypothesis in endometriosis showing that gram-negative bacteria can accumulate and release endotoxins like lipopolysaccharide (LPS) in menstrual/peritoneal fluid, providing direct evidence that SIBO in endometriosis patients increases LPS release from gram-negative bacteria"
+      },
+      {
+        "url": "https://bmcmicrobiol.biomedcentral.com/articles/10.1186/1471-2180-4-33",
+        "justification": "Study showing that flagellin from gram-negative bacteria activates TLR5 and leads to NF-κB pathway activation and proinflammatory gene expression in intestinal epithelial cells, demonstrating that bacterial overgrowth conditions like SIBO result in increased flagellin release and subsequent inflammatory responses"
+      }
+    ],
+    "counter_affirmation": "SIBO in endometriosis patients does not lead to increased LPS and flagellin release from gram-negative bacteria",
+    "counter_references": [
+      {
+        "url": "https://ncbi.nlm.nih.gov/pmc/articles/PMC10496284",
+        "justification": "Study highlighting methodological limitations of SIBO breath testing including concerns about false-positive results and indirect measurement issues, suggesting that reported SIBO in endometriosis patients may be overdiagnosed, thereby questioning claims of increased bacterial toxin release"
+      },
+      {
+        "url": "https://bmcwomenshealth.biomedcentral.com/articles/10.1186/s12905-025-03689-0",
+        "justification": "Research showing that gut microbiome differs significantly between early-stage and late-stage endometriosis patients, demonstrating heterogeneity in bacterial profiles and suggesting that not all endometriosis patients have dysbiotic conditions that would lead to increased LPS and flagellin release"
+      },
+      {
+        "url": "https://www.elsevier.es/en-revista-gastroenterologia-hepatologia-english-edition--382-avance-resumen-small-intestinal-bacterial-overgrowth-sibo--S2444382424002232",
+        "justification": "Editorial discussing SIBO as a clinically overdiagnosed entity, indicating that many reported cases may not represent true bacterial overgrowth, supporting the position that SIBO-associated increased LPS and flagellin release may not occur in many endometriosis patients"
+      }
+    ]
+  },
+  {
+    "affirmation": "TLR4 activation by bacterial components triggers the MyD88 signaling pathway",
+    "references": [
+      {
+        "url": "https://ncbi.nlm.nih.gov/pmc/articles/PMC1782563",
+        "justification": "Comprehensive study of TLR4 signal transduction showing that LPS binding to TLR4/MD-2 complex recruits MyD88 adaptor protein, leading to activation of NF-κB and pro-inflammatory cytokine production, providing direct molecular evidence of TLR4-MyD88 signaling pathway activation by bacterial components"
+      },
+      {
+        "url": "https://ncbi.nlm.nih.gov/pmc/articles/PMC4887650",
+        "justification": "Research detailing the role of TLR4 in inflammation, demonstrating how bacterial components like LPS activate TLR4 which then recruits MyD88 adaptor proteins to initiate downstream inflammatory signaling cascades, supporting the mechanism of bacterial component-triggered MyD88 pathway activation"
+      },
+      {
+        "url": "https://ncbi.nlm.nih.gov/pmc/articles/PMC4229726",
+        "justification": "Study on MyD88 as central player in innate immune signaling, showing how MyD88 adaptor protein links TLRs including TLR4 to downstream kinases like IRAK and TRAF6, leading to NF-κB activation and inflammatory cascade, confirming that bacterial component recognition by TLR4 triggers MyD88 signaling pathway"
+      }
+    ],
+    "counter_affirmation": "TLR4 is not significantly activated by bacterial components and does not trigger MyD88 signaling in endometriosis",
+    "counter_references": [
+      {
+        "url": "https://journals.aai.org/jimmunol/article/169/9/5209/75115/Dysregulation-of-LPS-Induced-Toll-Like-Receptor-4",
+        "justification": "Study showing that in endotoxin-tolerant cells, MyD88 fails to be recruited to TLR4 and IRAK-1 activity is impaired, demonstrating that TLR4-MyD88 signaling can be significantly reduced or absent even in the presence of bacterial components, supporting reduced TLR4 responsiveness in some endometriosis patients"
+      },
+      {
+        "url": "https://mdpi-res.com/d_attachment/cells/cells-11-03137/article_deploy/cells-11-03137-v2.pdf",
+        "justification": "Research on TLR4 polymorphisms showing increased frequency of TLR4 rs4986790 SNP variants that alter immune responses, indicating that genetic differences in endometriosis patients may result in reduced TLR4 sensitivity to bacterial components and diminished MyD88 signaling activation"
+      },
+      {
+        "url": "https://jneuroinflammation.biomedcentral.com/counter/pdf/10.1186/s12974-020-02066-y.pdf",
+        "justification": "Study demonstrating that suppression of TLR4-MyD88 signaling pathway in endometriosis model attenuated chronic pain, suggesting that in some cases this pathway may be naturally downregulated or less responsive to bacterial components, supporting the concept that TLR4-MyD88 signaling is not always significantly activated in endometriosis"
+      }
+    ]
+  },
+  {
+    "affirmation": "NF-κB pathway activation leads to cytokine storm in endometriosis-SIBO patients",
+    "references": [
+      {
+        "url": "https://www.fertstert.org/article/S0015-0282(07)01255-1/fulltext",
+        "justification": "Study demonstrating increased NF-κB activation in peritoneal macrophages of endometriosis patients, leading to expression of multiple pro-inflammatory cytokines including IL-6 and TNF-α, establishing the molecular basis for cytokine storm generation through NF-κB pathway activation in endometriosis"
+      },
+      {
+        "url": "https://mdpi-res.com/d_attachment/microorganisms/microorganisms-10-00960/article_deploy/microorganisms-10-00960-v2.pdf",
+        "justification": "Research showing that SIBO creates an indigenous proinflammatory environment with elevated levels of pro-inflammatory cytokines (IL-1β, IL-6, TNF-α) in duodenal fluid, demonstrating how bacterial overgrowth conditions contribute to cytokine storm potential in patients with concurrent endometriosis and SIBO"
+      },
+      {
+        "url": "https://ncbi.nlm.nih.gov/pmc/articles/PMC4519769",
+        "justification": "Study showing that bacterial endotoxin (LPS) and estradiol additively promote inflammation with increased secretion of multiple inflammatory cytokines including IL-6 and TNF-α, providing evidence that endometriosis-SIBO patients experience amplified cytokine storm through NF-κB pathway activation triggered by bacterial components"
+      }
+    ],
+    "counter_affirmation": "NF-κB pathway activation does not lead to cytokine storm in endometriosis-SIBO patients",
+    "counter_references": [
+      {
+        "url": "https://ncbi.nlm.nih.gov/pmc/articles/PMC2659177",
+        "justification": "Study on NF-κB regulation showing that A20 and IκBα provide negative feedback mechanisms to tightly control and terminate NF-κB signaling, preventing excessive inflammation and demonstrating that NF-κB activation is often transient rather than leading to uncontrolled cytokine release characteristic of cytokine storms"
+      },
+      {
+        "url": "https://www.nature.com/articles/srep26117.pdf",
+        "justification": "Research showing limited value of pro-inflammatory mediators as circulating biomarkers in endometriosis, indicating that many patients exhibit only mild systemic inflammation rather than the severe systemic inflammatory response required for cytokine storm, demonstrating individual variation in inflammatory responses"
+      },
+      {
+        "url": "https://mdpi-res.com/d_attachment/ijms/ijms-23-11740/article_deploy/ijms-23-11740-v2.pdf",
+        "justification": "Comprehensive review defining cytokine storm as 'excessive or uncontrolled release of pro-inflammatory cytokines' causing severe systemic damage, establishing that not all NF-κB activation or inflammatory responses reach the threshold for cytokine storm, supporting that many endometriosis-SIBO patients may have controlled inflammatory responses below storm levels"
+      }
+    ]
+  },
+  {
+    "affirmation": "JAK-STAT3 pathway is stimulated by bacterial endotoxins amplifying inflammation",
+    "references": [
+      {
+        "url": "https://www.frontiersin.org/articles/10.3389/fnut.2021.649640/pdf",
+        "justification": "Study demonstrating that lipopolysaccharide (LPS) induces central nervous system inflammation by upregulating hepatic hepcidin expression through activation of the IL-6/JAK2/STAT3 pathway, providing direct evidence that bacterial endotoxins stimulate JAK-STAT3 signaling to amplify inflammatory responses"
+      },
+      {
+        "url": "https://mdpi-res.com/d_attachment/ijms/ijms-23-02262/article_deploy/ijms-23-02262-v2.pdf",
+        "justification": "Research showing that cytokine-induced JAK2-STAT3 activation promotes tissue regeneration under systemic inflammation, and that LPS administration leads to JAK2/STAT3 phosphorylation and increased cytokine levels, confirming that bacterial endotoxins stimulate JAK-STAT3 pathway for inflammation amplification"
+      },
+      {
+        "url": "https://jneuroinflammation.biomedcentral.com/articles/10.1186/1742-2094-6-9",
+        "justification": "Study demonstrating that LPS-induced IL-6 production in the brain is regulated by STAT3, showing the molecular mechanism by which bacterial endotoxins activate the JAK-STAT3 pathway to control inflammatory cytokine production and amplify inflammatory responses"
+      }
+    ],
+    "counter_affirmation": "JAK-STAT3 pathway is not stimulated by bacterial endotoxins in endometriosis",
+    "counter_references": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6255943",
+        "justification": "Study on endotoxin tolerance demonstrating that repeated exposure to bacterial endotoxins leads to reduced immune responses and suppressed inflammatory signaling pathways, supporting that JAK-STAT3 pathway may not be stimulated by bacterial endotoxins in chronic conditions like endometriosis due to tolerance mechanisms"
+      },
+      {
+        "url": "https://www.mdpi.com/2076-3921/10/2/334",
+        "justification": "Research showing that STAT3 functions as a suppressor of inflammation and is a negative regulator of immune signaling pathways, demonstrating that STAT3 has anti-inflammatory rather than pro-inflammatory roles, supporting that JAK-STAT3 pathway is not stimulated but rather suppressed by bacterial endotoxins in endometriosis"
+      },
+      {
+        "url": "https://rupress.org/jem/article/198/10/1517/39833/Endothelial-Cells-Require-STAT3-for-Protection",
+        "justification": "Study demonstrating that STAT3 is essential for protecting endothelial cells against endotoxin-induced inflammation, showing that STAT3 mediates protective anti-inflammatory responses rather than pro-inflammatory stimulation when exposed to bacterial endotoxins, supporting that JAK-STAT3 pathway is not stimulated by bacterial endotoxins in endometriosis"
+      }
+    ]
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "affirmation": "Endometriotic lesions cause physical infiltration of peritoneal surfaces and organs",
+    "references": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8052801",
+        "justification": "Comprehensive review defining deep infiltrating endometriosis (DIE) as lesions penetrating at least 5 mm below the peritoneal surface, documenting how DIE can affect the entire pelvis and disrupt vital organ function through physical infiltration"
+      },
+      {
+        "url": "https://insightsimaging.springeropen.com/articles/10.1007/s13244-017-0591-0",
+        "justification": "Clinical imaging study demonstrating endometriotic lesions infiltrating deeper than 5 mm beneath the peritoneal surface with detailed MRI findings showing tissue invasion patterns and organ involvement including bowel wall, bladder, and uterosacral ligaments"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5893487",
+        "justification": "Clinical research documenting specific anatomical invasion patterns of endometriotic lesions including bowel wall infiltration causing luminal narrowing, bladder muscular layer invasion, and uterosacral ligament penetration with associated functional impairments"
+      }
+    ],
+    "counter_affirmation": "Endometriotic lesions do not cause significant physical infiltration of peritoneal surfaces and organs",
+    "counter_references": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10252330",
+        "justification": "Study demonstrating that superficial peritoneal endometriosis, the most common subtype representing up to 80% of cases, is characterized by endometrial-like tissue extending only up to 5mm under the peritoneal surface, indicating that the majority of endometriotic lesions are non-infiltrative"
+      },
+      {
+        "url": "https://www.endofound.org/stages-of-endometriosis",
+        "justification": "Clinical classification showing that Stage 1 (minimal) and Stage 2 (mild) endometriosis, representing the majority of diagnosed cases, consist of small, superficial lesions or implants on peritoneal surfaces with little to no deep tissue infiltration or scar tissue formation"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10461492",
+        "justification": "Research distinguishing between peritoneal endometriosis (PEM) as superficial, non-infiltrative disease versus deep infiltrating endometriosis (DIE), noting that PEM represents the most common form and may be a separate, less aggressive disease entity without significant tissue invasion"
+      }
+    ]
+  },
+  {
+    "affirmation": "Fibrous adhesions form as a result of chronic inflammation in endometriosis",
+    "references": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11370979",
+        "justification": "Comprehensive review documenting that endometriosis is a chronic inflammatory condition where ectopic endometrial tissue responds to hormonal changes, causing inflammation, scarring, and the formation of fibrous adhesions within the pelvic cavity"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11532625",
+        "justification": "Systematic study demonstrating that endometriosis-associated fibrosis involves excessive collagen deposition driven by myofibroblasts activated through chronic inflammatory processes, leading to fibrous scar tissue and adhesion formation"
+      },
+      {
+        "url": "https://www.fertstert.org/article/S0015-0282(04)01105-7/fulltext",
+        "justification": "Research showing that pro-inflammatory cytokines TNF-α and IL-6 released from endometriotic stromal cells via NF-κB and MAPK pathways directly contribute to fibroblast activation and the subsequent formation of fibrous adhesions in endometriosis"
+      }
+    ],
+    "counter_affirmation": "Fibrous adhesions do not form as a result of endometriosis-associated inflammation",
+    "counter_references": [
+      {
+        "url": "https://www.nature.com/articles/s41572-018-0008-5",
+        "justification": "Authoritative review noting that in women with persistent pelvic pain, the presence of minimal endometriosis might be coincidental rather than directly causal, suggesting that adhesions and symptoms can occur independently of endometriosis-associated inflammatory processes"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8301806",
+        "justification": "Comprehensive study demonstrating that post-operative adhesions in endometriosis patients result from surgical trauma and peritoneal healing responses rather than the underlying inflammatory disease process, with adhesion formation following normal wound healing mechanisms independent of endometriosis inflammation"
+      },
+      {
+        "url": "https://www.mdpi.com/1660-4601/19/5/2791",
+        "justification": "Research on iatrogenic endometriosis showing that adhesion formation can occur through mechanical surgical trauma and tissue handling during procedures, with successful adhesion prevention strategies targeting surgical techniques rather than inflammatory pathways"
+      }
+    ]
+  },
+  {
+    "affirmation": "Endometriosis-associated adhesions significantly impact gastrointestinal tract motility",
+    "references": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6996110",
+        "justification": "Clinical review documenting that endometriosis causes bowel-related symptoms including constipation, delayed transit, and in severe cases bowel obstruction, with intestinal endometriosis found in 3-37% of all endometriosis cases significantly affecting gastrointestinal function"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4985027",
+        "justification": "Research demonstrating that functional gastrointestinal disorders are commonly associated with endometriosis, showing significant correlations between pelvic endometriosis and altered bowel motility patterns, constipation, and gastrointestinal symptom severity"
+      },
+      {
+        "url": "https://www.alexandramiddleton.com.au/how-to-break-down-endometriosis-adhesions",
+        "justification": "Clinical evidence showing that endometriosis-related pelvic adhesions can mechanically restrict the intestines' natural movement, directly affecting peristalsis and the wave-like muscle contractions that move food through the digestive tract, leading to motility dysfunction"
+      }
+    ],
+    "counter_affirmation": "Endometriosis-associated adhesions do not significantly impact gastrointestinal tract motility",
+    "counter_references": [
+      {
+        "url": "https://centerforendo.com/endometriosis-and-bowel-symptoms",
+        "justification": "Clinical evidence showing that bowel symptoms in endometriosis are primarily caused by prostaglandins released from endometriotic implants affecting smooth muscle contractility, rather than mechanical adhesion-related motility disruption, indicating biochemical rather than structural causes"
+      },
+      {
+        "url": "https://nezhat.org/endometriosis-treatment/bowel-endometriosis",
+        "justification": "Research demonstrating that bowel endometriosis is frequently misdiagnosed as irritable bowel syndrome (IBS), suggesting that many gastrointestinal symptoms represent functional disorders rather than structural motility impairment from adhesions"
+      },
+      {
+        "url": "https://drseckin.com/faqs-about-endometriosis-and-adhesions",
+        "justification": "Clinical documentation noting that pain from adhesions may not be the same as endometriosis-related pain, indicating that bowel symptoms and adhesion-related mechanical effects operate through different pathological mechanisms independent of motility disruption"
+      }
+    ]
+  },
+  {
+    "affirmation": "Matrix metalloproteinases play a key role in tissue remodeling in endometriosis",
+    "references": [
+      {
+        "url": "https://www.spandidos-publications.com/10.3892/mmr.2018.9303",
+        "justification": "Comprehensive review demonstrating the bimodal role of matrix metalloproteinases and their tissue inhibitors (TIMPs) in endometriosis, showing how MMP dysregulation contributes to extracellular matrix degradation and formation of endometrial lesions through tissue remodeling processes"
+      },
+      {
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16880228",
+        "justification": "Research study documenting significantly increased expression of matrix metalloproteinase-9 (MMP-9) in both eutopic endometrial tissue and endometriotic lesions of women with endometriosis, directly linking MMP activity to invasiveness and tissue remodeling in the disease"
+      },
+      {
+        "url": "https://www.mdpi.com/1422-0067/21/8/2840",
+        "justification": "Scientific analysis showing elevated levels of matrix metalloproteinases and altered MMP/TIMP ratios in endometriotic lesions compared to normal endometrium, demonstrating the key role of these enzymes in the pathological tissue remodeling characteristic of endometriosis"
+      }
+    ],
+    "counter_affirmation": "Matrix metalloproteinases do not play a significant role in endometriosis tissue remodeling",
+    "counter_references": [
+      {
+        "url": "https://academic.oup.com/edrv/article/40/4/1048/5469279",
+        "justification": "Comprehensive review establishing that endometriosis pathogenesis is primarily driven by estrogen dependence and progesterone resistance rather than enzymatic tissue remodeling mechanisms, with hormonal dysregulation being the central pathophysiological mechanism underlying disease development and progression"
+      },
+      {
+        "url": "https://www.mdpi.com/1422-0067/26/5/2076",
+        "justification": "Research demonstrating that endometriosis pathogenesis is fundamentally based on estrogen dominance, chronic inflammation, and cytokine involvement, with elevated estrogen receptor beta levels in endometrial lesions being the primary driving force rather than matrix metalloproteinase activity"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3836682",
+        "justification": "Study showing that endometriosis is primarily an estrogen-dependent inflammatory condition characterized by altered hormonal milieu, with progesterone resistance and estrogen dominance being the main pathophysiological mechanisms rather than enzymatic extracellular matrix remodeling processes"
+      }
+    ]
+  }
+]

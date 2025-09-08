@@ -1,0 +1,162 @@
+[
+  {
+    "affirmation": "Systemic endotoxemia occurs in endometriosis-SIBO patients due to bacterial translocation",
+    "references": [
+      {
+        "url": "https://www.siboinfo.com/2025.html",
+        "justification": "Study documenting high prevalence of SIBO in endometriosis patients and showing how SIBO leads to increased intestinal permeability and elevated endotoxin levels through bacterial translocation"
+      },
+      {
+        "url": "https://www.fertstert.org/article/S0015-0282(04)01294-4/fulltext",
+        "justification": "Research demonstrating that lipopolysaccharide (bacterial endotoxin) stimulates endometriotic stromal cells and promotes inflammatory factor production, providing direct evidence of systemic endotoxemia effects in endometriosis"
+      },
+      {
+        "url": "https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2024.1363455/full",
+        "justification": "Review establishing the connection between gut microbiota dysbiosis, bacterial translocation, and endometriosis development, with evidence for systemic inflammatory consequences"
+      }
+    ],
+    "counter_affirmation": "Systemic endotoxemia does not occur in endometriosis-SIBO patients",
+    "counter_references": [
+      {
+        "url": "https://ncbi.nlm.nih.gov/pmc/articles/PMC9357916",
+        "justification": "Systematic review establishing no direct correlation between SIBO and endometriosis, suggesting that gastrointestinal symptoms may have alternative explanations not involving bacterial translocation or endotoxemia"
+      },
+      {
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32401078",
+        "justification": "Pilot study on intestinal permeability with significant methodological limitations including very small sample size (8 patients, 14 controls), making findings preliminary and insufficient to establish systemic endotoxemia as a consistent feature"
+      },
+      {
+        "url": "https://goodguttalk.com/blog/sibo-hormonal-health",
+        "justification": "Research indicating that hormonal imbalances rather than bacterial translocation may be the primary mechanism linking SIBO symptoms to endometriosis, providing alternative explanation for observed associations"
+      }
+    ]
+  },
+  {
+    "affirmation": "Hepatic Kupffer cells are activated by circulating endotoxins in endometriosis",
+    "references": [
+      {
+        "url": "https://journals.physiology.org/doi/full/10.1152/ajpgi.00058.2013",
+        "justification": "Study demonstrating that circulating LPS activates Kupffer cells and endothelial TLR4 during systemic endotoxemia, leading to neutrophil adhesion and inflammatory response in liver sinusoids"
+      },
+      {
+        "url": "https://ncbi.nlm.nih.gov/pmc/articles/PMC6668869",
+        "justification": "Research documenting how endotoxin from gut bacteria activates Kupffer cells, triggering cytokine production and reactive oxygen species that cause hepatic inflammation and damage"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7829348",
+        "justification": "Review establishing the role of metabolic endotoxemia in systemic inflammation through the gut-liver axis, where circulating endotoxins activate hepatic Kupffer cells and contribute to chronic inflammatory states"
+      }
+    ],
+    "counter_affirmation": "Hepatic Kupffer cells are not activated by circulating endotoxins in endometriosis",
+    "counter_references": [
+      {
+        "url": "https://karger.com/goi/article-abstract/62/3/139/151903/Is-Endometriosis-Associated-with-Systemic",
+        "justification": "Study suggesting that endometriosis can be considered a local disease with only subclinical systemic manifestations, indicating that systemic immune involvement including hepatic Kupffer cell activation may not be clinically significant"
+      },
+      {
+        "url": "https://www.ajog.org/article/0002-9378(87)90333-4/abstract",
+        "justification": "Research demonstrating that endometriosis pathogenesis involves localized immune dysfunction within the peritoneal cavity with altered peritoneal macrophages, rather than systemic immune activation affecting hepatic cells"
+      },
+      {
+        "url": "https://karger.com/goi/article-abstract/37/1/43/150957/Endometriotic-Tissues-Produce-Immunosuppressive",
+        "justification": "Study showing that endometriotic tissues produce immunosuppressive factors for local implantation and development, supporting a primarily localized rather than systemic inflammatory process"
+      }
+    ]
+  },
+  {
+    "affirmation": "Acute phase response markers including hs-CRP are elevated in endometriosis",
+    "references": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3169460",
+        "justification": "Study demonstrating that hsCRP assay detects significantly increased plasma levels in women with endometriosis compared to controls, particularly during luteal phase, with moderate-severe endometriosis showing 80.7% sensitivity and 63.9% specificity at cut-off >0.71 mg/L"
+      },
+      {
+        "url": "https://www.mdpi.com/1422-0067/22/5/2295",
+        "justification": "Research showing significantly elevated serum concentrations of hs-CRP (median 2.33 mg/L vs 0.52 mg/L in controls, p=0.028) and other inflammatory markers including IL-1β, IL-6 in women with advanced endometriosis, confirming systemic inflammatory response"
+      },
+      {
+        "url": "https://rbej.biomedcentral.com/articles/10.1186/1477-7827-9-113",
+        "justification": "Clinical study demonstrating elevated high-sensitivity C-reactive protein levels in endometriosis patients using highly sensitive assays to detect subclinical chronic inflammation associated with the disease"
+      }
+    ],
+    "counter_affirmation": "Acute phase response markers including hs-CRP are not elevated in endometriosis",
+    "counter_references": [
+      {
+        "url": "https://ncbi.nlm.nih.gov/pmc/articles/PMC3696960",
+        "justification": "Case-control study of 179 patients showing no significant difference in serum CRP levels between women with endometriosis and controls, concluding that measurement of this marker in serum cannot be used to diagnose endometriosis and suggesting no ongoing systemic inflammatory process"
+      },
+      {
+        "url": "https://www.ajog.org/article/S0002-9378(14)00035-0/abstract",
+        "justification": "Prospective study of 834 patients demonstrating that hs-CRP serum levels did not statistically differ between women with endometriosis and controls, concluding that measurement of hs-CRP is irrelevant to diagnose and stage endometriosis"
+      },
+      {
+        "url": "https://www.nature.com/articles/srep26117",
+        "justification": "Targeted omics study showing limited value of pro-inflammatory oxylipins and cytokines as circulating biomarkers in endometriosis, with serum inflammatory marker levels being similar between women with and without endometriosis, suggesting tenuous systemic inflammation"
+      }
+    ]
+  },
+  {
+    "affirmation": "Cytochrome P450 enzymes are inhibited by chronic inflammation in endometriosis",
+    "references": [
+      {
+        "url": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.1043836/full",
+        "justification": "Study demonstrating that pro-inflammatory cytokines including IL-1β, IL-6, and TNF-α can affect the expression of CYP450 mRNA in the liver and inhibit cytochrome P450 enzyme activities through inflammatory signaling pathways"
+      },
+      {
+        "url": "https://onlinejcf.com/article/S1071-9164(02)00423-2/abstract",
+        "justification": "Research showing that plasma levels of TNF-α and IL-6 are inversely related to cytochrome P450-dependent drug metabolism, demonstrating direct inhibition of CYP enzyme activity by inflammatory cytokines"
+      },
+      {
+        "url": "https://www.sciencedirect.com/science/article/pii/S0167488922001732",
+        "justification": "Review establishing altered estrogen metabolism in endometriosis involving cytochrome P450 enzymes including aromatase, with chronic inflammation affecting these metabolic pathways in endometriotic tissues"
+      }
+    ],
+    "counter_affirmation": "Cytochrome P450 enzymes are not inhibited by chronic inflammation in endometriosis",
+    "counter_references": [
+      {
+        "url": "https://rbej.biomedcentral.com/articles/10.1186/1477-7827-9-87",
+        "justification": "Study demonstrating that aromatase (P450arom/CYP19A1) is significantly overexpressed in endometriotic tissue, leading to increased local estrogen production rather than enzyme inhibition, contradicting the concept of P450 suppression in endometriosis"
+      },
+      {
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15083380",
+        "justification": "Research showing that cytochrome P450 aromatase enzyme is upregulated in endometriosis to catalyze increased estrogen synthesis, with enhanced enzyme activity creating a positive feedback loop rather than inflammatory inhibition"
+      },
+      {
+        "url": "https://www.sciencedirect.com/science/article/abs/pii/S0303720712005436",
+        "justification": "Study examining phase I metabolizing enzymes including CYP1A1 in ovarian endometriosis, suggesting maintained or altered rather than globally inhibited cytochrome P450 enzyme function in endometriotic tissues"
+      }
+    ]
+  },
+  {
+    "affirmation": "Oxidative stress increases while antioxidant capacity decreases in endometriosis",
+    "references": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5625949",
+        "justification": "Systematic review demonstrating that women with endometriosis have decreased activity of antioxidant enzymes including superoxide dismutase (SOD), catalase, and glutathione peroxidase in peritoneal fluid, with higher levels of oxidative stress markers such as malondialdehyde"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6472204",
+        "justification": "Clinical study showing that median activity of superoxide dismutase (SOD) and glutathione peroxidase was lowest in severe stage endometriosis, indicating progressive decrease in antioxidant capacity with disease severity"
+      },
+      {
+        "url": "https://www.spandidos-publications.com/10.3892/ijmm.2025.5513",
+        "justification": "Review establishing that oxidative stress in endometriosis is characterized by imbalance between reactive oxygen species (ROS) and antioxidant defenses, with increased oxidative markers and diminished antioxidant capacity promoting lesion development and disease progression"
+      }
+    ],
+    "counter_affirmation": "Oxidative stress does not increase and antioxidant capacity is not decreased in endometriosis",
+    "counter_references": [
+      {
+        "url": "https://academic.oup.com/humrep/article/12/12/2810/660477",
+        "justification": "Clinical study finding that total antioxidant status and nitric oxide do not increase in peritoneal fluids from women with endometriosis, challenging the concept of globally decreased antioxidant capacity in the disease"
+      },
+      {
+        "url": "https://www.sciencedirect.com/science/article/pii/S1110569012001215",
+        "justification": "Research demonstrating that peritoneal fluid total antioxidant capacity (TAC) levels were not significantly different between endometriosis patients and controls, contradicting the hypothesis of reduced antioxidant capacity"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6472204",
+        "justification": "Study acknowledging methodological limitations including small sample sizes and conflicting results regarding oxidative stress markers in endometriosis research, questioning the reliability of findings supporting universal oxidative stress increase"
+      }
+    ]
+  }
+]

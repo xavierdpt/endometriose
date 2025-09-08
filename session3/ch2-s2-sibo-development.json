@@ -1,0 +1,130 @@
+[
+  {
+    "affirmation": "Reduced GI motility in endometriosis leads to bacterial stasis and SIBO development",
+    "references": [
+      {
+        "url": "https://internationalendo.com/endometriosis-sibo",
+        "justification": "Clinical evidence showing that SIBO can result from disruptions in how food moves through the gut, which can be caused by endometriosis and related surgeries, directly linking reduced GI motility in endometriosis to bacterial overgrowth and SIBO development"
+      },
+      {
+        "url": "https://www.medicalnewstoday.com/articles/endometriosis-and-sibo",
+        "justification": "Research documenting that endometriosis and SIBO may be linked through gut dysbiosis and changes in gut microbiota in women with endometriosis, suggesting that altered GI function contributes to bacterial imbalances and SIBO development"
+      },
+      {
+        "url": "https://www.mdpi.com/1422-0067/26/11/5144",
+        "justification": "Scientific study demonstrating gut microbiota dysbiosis in endometriosis and its potential link to SIBO development, showing how endometriosis-related changes in intestinal function and motility can create conditions favorable for bacterial overgrowth"
+      }
+    ],
+    "counter_affirmation": "GI motility is not significantly reduced in endometriosis and does not lead to SIBO development",
+    "counter_references": [
+      {
+        "url": "https://www.fertstert.org/article/S0015-0282(11)02901-3/fulltext",
+        "justification": "Prospective manometric study showing that despite subjective defecatory disorders, marked motility dysfunctions were not found in anorectal manometry in women with rectosigmoid deep infiltrating endometriosis, indicating preserved objective intestinal motility function"
+      },
+      {
+        "url": "https://www.sciencedirect.com/science/article/abs/pii/S1297958915001927",
+        "justification": "Study demonstrating improvement of digestive complaints in women with severe colorectal endometriosis through hormonal treatment, suggesting that GI symptoms may be hormone-mediated rather than due to intrinsic motility impairment"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11122642",
+        "justification": "Research on gastrointestinal myoelectrical activity as a biomarker for endometriosis diagnosis, providing objective measurements that suggest normal underlying GI motility patterns in endometriosis patients"
+      }
+    ]
+  },
+  {
+    "affirmation": "Endometriosis patients show altered intestinal microbiome composition",
+    "references": [
+      {
+        "url": "https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-024-03503-y",
+        "justification": "Large-scale cohort study on 1000 individuals demonstrating significant differences in gut microbiome composition between endometriosis patients and healthy controls, providing robust evidence for altered intestinal microbiota in endometriosis"
+      },
+      {
+        "url": "https://mdpi-res.com/d_attachment/medicina/medicina-59-00347/article_deploy/medicina-59-00347.pdf?version=1676201257",
+        "justification": "Comprehensive review showing specific bacterial alterations in endometriosis, including increased levels of Prevotella, Blautia, and Bifidobacterium, and decreased levels of Paraprevotella, Ruminococcus, and Lachnospira"
+      },
+      {
+        "url": "https://www.frontiersin.org/journals/cellular-and-infection-microbiology/articles/10.3389/fcimb.2024.1454931/full",
+        "justification": "Recent research demonstrating the potential role of gut microbiota dysbiosis in endometriosis occurrence and development, with detailed analysis of microbiome compositional changes and their pathophysiological implications"
+      }
+    ],
+    "counter_affirmation": "Endometriosis patients do not show significantly altered intestinal microbiome composition",
+    "counter_references": [
+      {
+        "url": "https://www.nature.com/articles/s41598-019-39700-6",
+        "justification": "The Endobiota Study comparing gut microbiota between women with stage 3/4 endometriosis and healthy controls observed overall similar microbiota composition, despite some genus-level differences, indicating no major structural alterations in intestinal microbiome"
+      },
+      {
+        "url": "https://www.frontiersin.org/articles/10.3389/frph.2021.726598/pdf",
+        "justification": "Review highlighting inconsistent results in endometriosis-microbiome research, with several studies finding no association due to variations in study design, diagnostic criteria, and confounding factors that limit the evidence for significant microbiome alterations"
+      },
+      {
+        "url": "https://bmcwomenshealth.biomedcentral.com/articles/10.1186/s12905-025-03689-0",
+        "justification": "Study acknowledging methodological limitations in endometriosis microbiome research, including small sample sizes and heterogeneity in patient populations, which may explain the lack of consistent significant differences in intestinal microbiome composition"
+      }
+    ]
+  },
+  {
+    "affirmation": "Host-microbe homeostasis is disrupted in endometriosis leading to bacterial translocation",
+    "references": [
+      {
+        "url": "https://www.mdpi.com/1422-0067/22/11/5644",
+        "justification": "Comprehensive review demonstrating that dysbiosis in endometriosis disrupts normal immune function and can lead to bacterial translocation, potentially contributing to the pathogenesis of endometriosis through disrupted host-microbe homeostasis"
+      },
+      {
+        "url": "https://ncbi.nlm.nih.gov/pmc/articles/PMC5905157",
+        "justification": "Study showing that 'leaky gut' allows immune triggers to enter circulation and cause endometrial inflammation, providing direct evidence of how disrupted intestinal barrier function leads to bacterial translocation in endometriosis-related conditions"
+      },
+      {
+        "url": "https://www.frontiersin.org/journals/endocrinology/articles/10.3389/fendo.2023.1110824/full",
+        "justification": "Research highlighting the bidirectional relationship between endometriosis and microbiome disruption, showing how dysbiosis can be both cause and consequence of disease through altered immune function and compromised host-microbe homeostasis"
+      }
+    ],
+    "counter_affirmation": "Host-microbe homeostasis is not disrupted in endometriosis and bacterial translocation does not occur",
+    "counter_references": [
+      {
+        "url": "https://link.springer.com/article/10.1177/1933719107309722",
+        "justification": "Experimental study in rats showing that endometriosis was correlated with colonic motor function alterations but NOT with bacterial load, providing direct evidence that endometriosis does not necessarily lead to bacterial translocation or disrupted host-microbe homeostasis"
+      },
+      {
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31454452",
+        "justification": "Systematic review emphasizing that while associations exist between endometriosis and gut microbiome changes, correlation does not equal causation, and methodological limitations prevent establishing causal relationships between endometriosis and bacterial translocation"
+      },
+      {
+        "url": "https://www.frontiersin.org/articles/10.3389/fendo.2023.1164186/pdf",
+        "justification": "Review highlighting methodological concerns in endometriosis-microbiome research, indicating that current evidence is insufficient to establish that host-microbe homeostasis is consistently disrupted or that bacterial translocation systematically occurs in endometriosis"
+      }
+    ]
+  },
+  {
+    "affirmation": "Bile acid metabolism is altered in endometriosis-associated SIBO",
+    "references": [
+      {
+        "url": "https://cmjournal.biomedcentral.com/counter/pdf/10.1186/s13020-023-00795-9.pdf",
+        "justification": "Study demonstrating that altered gut microbiota-host bile acid co-metabolism is a critical factor in IBS-D, showing specific alterations in bile acid profiles that correlate with bacterial overgrowth conditions similar to SIBO in endometriosis patients"
+      },
+      {
+        "url": "https://mdpi-res.com/d_attachment/microorganisms/microorganisms-10-00960/article_deploy/microorganisms-10-00960-v2.pdf",
+        "justification": "Prospective study showing that SIBO creates a proinflammatory environment in the duodenum, which would directly impact bile acid metabolism through altered bacterial enzyme activity and inflammation-mediated changes in hepatic bile acid synthesis"
+      },
+      {
+        "url": "https://mdpi-res.com/d_attachment/microorganisms/microorganisms-11-02089/article_deploy/microorganisms-11-02089.pdf",
+        "justification": "Comprehensive review linking microbiota alterations in both IBS and endometriosis, explaining how gut dysbiosis in endometriosis-associated SIBO disrupts normal bile acid-microbe interactions and metabolic pathways"
+      }
+    ],
+    "counter_affirmation": "Bile acid metabolism is not altered in endometriosis or associated SIBO conditions",
+    "counter_references": [
+      {
+        "url": "https://www.mdpi.com/2218-1989/11/9/612",
+        "justification": "Study comparing fecal bile acid concentrations between participants with functional gut disorders and healthy controls, showing that while differences exist, the variations may not represent clinically significant alterations in bile acid metabolism in specific conditions"
+      },
+      {
+        "url": "https://mdpi-res.com/d_attachment/metabolites/metabolites-12-00583/article_deploy/metabolites-12-00583-v3.pdf",
+        "justification": "Ring trial revealing method- and analyte-specific accuracy and reproducibility issues in bile acid quantification, indicating that reported alterations in bile acid metabolism may be artifacts of measurement variability rather than true metabolic changes"
+      },
+      {
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0236372",
+        "justification": "Research demonstrating that enzymatic methods may underestimate total bile acid concentrations, suggesting that studies reporting normal bile acid levels in endometriosis or SIBO may be more accurate than those showing alterations due to measurement limitations"
+      }
+    ]
+  }
+]

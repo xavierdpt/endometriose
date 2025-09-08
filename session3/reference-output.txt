@@ -1,0 +1,23 @@
+Reference Finder - Scanning for missing references...
+
+Found 1 statements needing references.
+--------------------------------------------------------------------------------
+Statement: "Ceramide and D-glucuronobiosidase are not promising biomarkers for endometriosis monitoring"
+--------------------------------------------------------------------------------
+File: ch6-s2-emerging-research-novel-targets.json
+Type: counter_affirmation
+
+🔍 ACTION REQUIRED: PERFORM WEB SEARCH
+Please search the web for THREE SUPPORTING REFERENCES for this statement.
+
+Search Query Suggestion: "Ceramide and D-glucuronobiosidase are not promising biomarkers for endometriosis monitoring scientific research evidence"
+
+After finding the references through web search, add them to the JSON file in this format:
+{
+  "url": "https://example.com",
+  "justification": "Brief explanation of how this reference supports the statement"
+}
+
+Add them to the "counter_references" array for item 4 in ch6-s2-emerging-research-novel-targets.json
+
+Run the program again after adding references to continue with the next statement.

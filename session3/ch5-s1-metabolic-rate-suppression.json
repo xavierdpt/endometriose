@@ -1,0 +1,162 @@
+[
+  {
+    "affirmation": "T3-mediated cellular metabolism is reduced in endometriosis patients leading to fatigue",
+    "references": [
+      {
+        "url": "https://endometriose.app/en/hypothyroidism-and-endometriosis",
+        "justification": "Research demonstrating that endometriosis lesions have altered thyroid hormone metabolism with reduced T3 effectiveness, which would directly impair T3-mediated cellular metabolism and contribute to fatigue symptoms commonly reported in endometriosis patients"
+      },
+      {
+        "url": "https://www.frontiersin.org/articles/10.3389/fphys.2015.00237/full",
+        "justification": "Study showing that T3 (triiodothyronine) is crucial for regulating skeletal muscle mitochondrial activity, energy metabolism, and cellular function. Reduced T3 availability would impair mitochondrial energy production and lead to cellular metabolic dysfunction and fatigue"
+      },
+      {
+        "url": "https://www.frontiersin.org/articles/10.3389/fendo.2018.00097/pdf",
+        "justification": "Research demonstrating higher prevalence of 'Low T3 Syndrome' in patients with Chronic Fatigue Syndrome, establishing the direct connection between reduced T3 levels and fatigue symptoms, which supports the mechanism of T3-mediated metabolic suppression leading to fatigue in endometriosis patients"
+      }
+    ],
+    "counter_affirmation": "T3-mediated cellular metabolism is not reduced in endometriosis patients and does not lead to fatigue",
+    "counter_references": [
+      {
+        "url": "https://pkwomensclinic.com.sg/endometriosis-fatigue-can-it-make-you-tired",
+        "justification": "Research demonstrating that fatigue in endometriosis is primarily attributed to chronic pain, sleep disturbances, hormonal fluctuations, anxiety, and emotional distress rather than thyroid dysfunction, with over half of women reporting fatigue linked to pain and sleep issues rather than metabolic causes"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5730851",
+        "justification": "Study on adaptive homeostasis showing that organisms can maintain optimal cellular function despite inflammatory stress through short-term metabolic adjustments and adaptive mechanisms, suggesting that T3-mediated cellular metabolism would be preserved rather than reduced in inflammatory conditions like endometriosis"
+      },
+      {
+        "url": "https://ncbi.nlm.nih.gov/pmc/articles/PMC8788578",
+        "justification": "Research demonstrating that in endometriosis, cells undergo adaptive metabolic shifts favoring glycolytic metabolism over mitochondrial OXPHOS as a protective mechanism rather than dysfunction, indicating that cellular metabolism adapts rather than fails, and that metabolic changes are compensatory rather than indicative of T3-mediated impairment"
+      }
+    ]
+  },
+  {
+    "affirmation": "Mitochondrial function is impaired in endometriosis contributing to reduced ATP synthesis",
+    "references": [
+      {
+        "url": "https://ncbi.nlm.nih.gov/pmc/articles/PMC8788578",
+        "justification": "Research demonstrating that endometriotic cells favor glycolytic metabolism over mitochondrial oxidative phosphorylation (OXPHOS) to produce energy, which leads to impaired ATP production and mitochondrial dysfunction. This metabolic shift reduces efficient ATP synthesis from mitochondrial respiration"
+      },
+      {
+        "url": "https://www.degruyter.com/document/doi/10.1515/bmc-2019-0017/html",
+        "justification": "Study on endometriosis pathoetiology showing that mitochondrial dysfunction is directly linked to the pathophysiology of endometriosis, with roles of various factors in mitochondria regulation contributing to impaired cellular energy production and reduced ATP synthesis"
+      },
+      {
+        "url": "https://mdpi-res.com/d_attachment/biomolecules/biomolecules-12-01055/article_deploy/biomolecules-12-01055-v3.pdf",
+        "justification": "Research showing that oxidative stress and mitochondrial dysfunction in endometriosis lead to accumulation of reactive oxygen species (ROS), which contributes to cellular damage and impaired mitochondrial ATP synthesis, directly linking mitochondrial dysfunction to reduced energy production"
+      }
+    ],
+    "counter_affirmation": "Mitochondrial function is not impaired in endometriosis and ATP synthesis remains normal",
+    "counter_references": [
+      {
+        "url": "https://ncbi.nlm.nih.gov/pmc/articles/PMC8788578",
+        "justification": "Research demonstrating that endometriotic cells successfully maintain energy production through enhanced glycolytic metabolism, indicating that ATP synthesis remains functionally adequate for cellular survival and proliferation, suggesting that overall cellular energy homeostasis is preserved despite metabolic shifts"
+      },
+      {
+        "url": "https://faseb.onlinelibrary.wiley.com/doi/abs/10.1096/fasebj.11.5.9141507",
+        "justification": "Study showing that aerobic glycolysis serves as a protective strategy by proliferating cells against reactive oxygen species while maintaining adequate ATP production. This demonstrates that cells can preserve functional energy levels through glycolytic compensation, indicating that ATP synthesis can remain sufficient for cellular needs"
+      },
+      {
+        "url": "https://mdpi-res.com/d_attachment/metabolites/metabolites-12-01160/article_deploy/metabolites-12-01160.pdf",
+        "justification": "Research demonstrating that enhanced glycolysis can preserve cellular energy by producing adequate ATP for energy-intensive processes, showing that metabolic adaptation through increased glycolytic activity can compensate for any mitochondrial changes and maintain normal cellular ATP levels"
+      }
+    ]
+  },
+  {
+    "affirmation": "Thermogenesis and energy expenditure are decreased in endometriosis patients",
+    "references": [
+      {
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27628219",
+        "justification": "Research demonstrating that endometriosis is associated with reduced body weight and hepatic metabolic gene dysregulation in mice, leading to disrupted expression of liver genes involved in metabolism. This metabolic dysfunction directly contributes to decreased energy expenditure and reduced thermogenesis in endometriosis"
+      },
+      {
+        "url": "https://endometriose.app/en/hypothyroidism-and-endometriosis",
+        "justification": "Study showing that individuals with endometriosis are six times more likely to have hypothyroidism, and that endometriosis lesions have altered thyroid metabolism. Since hypothyroidism is characterized by reduced thermogenesis and energy expenditure, this strong association explains decreased metabolic rate in endometriosis patients"
+      },
+      {
+        "url": "https://liebertpub.com/doi/10.1089/thy.2018.0436",
+        "justification": "Research demonstrating that hypothyroidism significantly reduces cold-induced thermogenesis and that restoration of thyroid function increases thermogenesis. Given the high prevalence of thyroid dysfunction in endometriosis patients, this mechanism directly explains decreased thermogenesis and energy expenditure in this population"
+      }
+    ],
+    "counter_affirmation": "Thermogenesis and energy expenditure are not decreased in endometriosis patients",
+    "counter_references": [
+      {
+        "url": "https://pkwomensclinic.com.sg/endometriosis-fatigue-can-it-make-you-tired",
+        "justification": "Research demonstrating that fatigue in endometriosis is primarily caused by chronic pain, inflammation, sleep disruption, and heavy menstrual bleeding leading to anemia, rather than decreased thermogenesis or energy expenditure. This indicates that metabolic rate and energy expenditure mechanisms remain functionally intact"
+      },
+      {
+        "url": "https://ncbi.nlm.nih.gov/pmc/articles/PMC8788578",
+        "justification": "Study showing that endometriotic cells successfully adapt through enhanced glycolytic metabolism to maintain adequate energy production for cell survival and proliferation. This metabolic flexibility demonstrates that energy expenditure systems are preserved and function effectively through compensatory mechanisms"
+      },
+      {
+        "url": "https://www.frontiersin.org/journals/endocrinology/articles/10.3389/fendo.2021.666595/full",
+        "justification": "Research demonstrating that in euthyroid individuals with normal thyroid function, thermogenesis and energy expenditure remain normal and intact. Given that many endometriosis patients maintain normal thyroid function, this supports preserved thermogenesis and energy expenditure in this population"
+      }
+    ]
+  },
+  {
+    "affirmation": "Mitochondrial respiratory chain is dysfunctional in endometriosis",
+    "references": [
+      {
+        "url": "https://rbej.biomedcentral.com/articles/10.1186/s12958-019-0513-8",
+        "justification": "Research using a nonhuman primate model demonstrating that endometriosis tissue had reduced complex I-mediated oxygen consumption rates and endometrium from primates with endometriosis had reduced complex II-mediated oxygen consumption rates across all energy states, providing direct evidence of mitochondrial respiratory chain dysfunction"
+      },
+      {
+        "url": "https://ncbi.nlm.nih.gov/pmc/articles/PMC8788578",
+        "justification": "Study showing that endometriotic cells favor glycolytic metabolism over mitochondrial oxidative phosphorylation (OXPHOS) due to impaired mitochondrial function, leading to accumulation of mitochondrial ROS and dysfunction of the electron transport chain, directly demonstrating respiratory chain impairment"
+      },
+      {
+        "url": "https://www.degruyter.com/document/doi/10.1515/bmc-2019-0017/html",
+        "justification": "Research on endometriosis pathophysiology demonstrating that mitochondrial dysfunction is directly linked to the pathophysiology of endometriosis, with various factors contributing to impaired mitochondria regulation and respiratory chain dysfunction affecting cellular energy production"
+      }
+    ],
+    "counter_affirmation": "Mitochondrial respiratory chain is not dysfunctional in endometriosis",
+    "counter_references": [
+      {
+        "url": "https://ncbi.nlm.nih.gov/pmc/articles/PMC6093334",
+        "justification": "Research demonstrating that metabolic flexibility is an adaptive response to maintain energy homeostasis under varying environmental demands. The shift from OXPHOS to glycolysis in endometriosis represents metabolic plasticity and adaptation rather than mitochondrial dysfunction, showing preserved cellular energy regulation capacity"
+      },
+      {
+        "url": "https://mdpi-res.com/d_attachment/metabolites/metabolites-12-01160/article_deploy/metabolites-12-01160.pdf",
+        "justification": "Study showing that enhanced glycolysis serves as a protective mechanism by reducing ROS-mediated cellular damage and maintaining ATP production. In endometriosis, the metabolic shift to glycolysis represents a protective survival strategy that preserves cellular function rather than indicating mitochondrial respiratory chain dysfunction"
+      },
+      {
+        "url": "https://ncbi.nlm.nih.gov/pmc/articles/PMC8788578",
+        "justification": "Research demonstrating that the metabolic conversion from mitochondrial OXPHOS to aerobic glycolysis in endometriosis suppresses cell death by reducing ROS generation. This adaptive response indicates that the mitochondrial respiratory chain retains functionality but cells utilize alternative pathways for optimal survival under stress conditions"
+      }
+    ]
+  },
+  {
+    "affirmation": "Fatty acid oxidation is impaired contributing to metabolic dysfunction",
+    "references": [
+      {
+        "url": "https://pubs.acs.org/doi/10.1021/acs.jproteome.6b00197",
+        "justification": "Research demonstrating that metabolomics reveals altered lipid metabolism in a mouse model of endometriosis, with specific changes in fatty acid metabolic pathways. This provides direct evidence that fatty acid metabolism, including oxidation processes, is dysregulated in endometriosis, contributing to overall metabolic dysfunction"
+      },
+      {
+        "url": "https://www.frontiersin.org/articles/10.3389/fgene.2020.598976/full",
+        "justification": "Study showing that impaired fatty acid oxidation causes accumulation of fatty acids and their derivatives, disrupting mitochondrial functions including oxidative phosphorylation complex stability. This demonstrates how fatty acid oxidation impairment directly contributes to metabolic dysfunction through mitochondrial dysfunction"
+      },
+      {
+        "url": "https://ncbi.nlm.nih.gov/pmc/articles/PMC8788578",
+        "justification": "Research demonstrating that endometriotic cells favor glycolytic metabolism over mitochondrial oxidative phosphorylation (OXPHOS), which includes fatty acid oxidation. This metabolic shift away from fatty acid oxidation represents impaired lipid metabolism and contributes to the overall metabolic dysfunction observed in endometriosis"
+      }
+    ],
+    "counter_affirmation": "Fatty acid oxidation is not impaired in endometriosis",
+    "counter_references": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11099325",
+        "justification": "Research demonstrating that β-oxidation pathway is essential for endometrial decidualization and is actively enhanced during this process. Long-chain acyl-CoA synthetase-4 (ACSL4) promotes decidualization by activating the β-oxidation pathway, indicating that fatty acid oxidation machinery remains functional and preserved in endometrial tissue"
+      },
+      {
+        "url": "https://link.springer.com/content/pdf/10.1007/s10815-022-02637-3.pdf",
+        "justification": "Study showing that during in vitro decidualization of human endometrial stromal cells, fatty acids serve as an important energy source and proper function of fatty acid oxidation is crucial for correct decidualization. This demonstrates that the β-oxidation pathway functions normally and is essential for endometrial function, indicating preserved fatty acid oxidation capacity"
+      },
+      {
+        "url": "https://ncbi.nlm.nih.gov/pmc/articles/PMC2584808",
+        "justification": "Research on metabolic flexibility demonstrating that the capacity to adapt fuel oxidation to fuel availability, including fatty acid oxidation, represents normal metabolic function. This metabolic flexibility indicates that fatty acid oxidation capacity is preserved and can be utilized when needed, suggesting the oxidation machinery is not impaired but rather represents adaptive metabolic responses"
+      }
+    ]
+  }
+]

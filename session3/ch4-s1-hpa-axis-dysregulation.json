@@ -1,0 +1,162 @@
+[
+  {
+    "affirmation": "Chronic inflammation in endometriosis disrupts normal HPA axis function",
+    "references": [
+      {
+        "url": "https://www.sciencedirect.com/science/article/abs/pii/S1567576924004600",
+        "justification": "Review demonstrating that endometriosis as a chronic inflammatory condition is associated with disruption of the hypothalamic-pituitary-adrenal (HPA) axis, contributing to increased inflammation and potentially exacerbating chronic pelvic pain, anxiety, and depression"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9262098",
+        "justification": "Study establishing the bidirectional relationship between stress and endometriosis, showing that stress disrupts the HPA axis and this disruption can exacerbate the disease and its symptoms through inflammatory pathways"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4046310",
+        "justification": "Research in rat models demonstrating that stress exacerbates endometriosis manifestations through HPA axis activation, with chronic stress increasing the size and severity of endometriotic lesions and promoting inflammatory responses"
+      }
+    ],
+    "counter_affirmation": "Chronic inflammation in endometriosis does not disrupt normal HPA axis function",
+    "counter_references": [
+      {
+        "url": "https://karger.com/goi/article-abstract/62/3/139/151903/Is-Endometriosis-Associated-with-Systemic",
+        "justification": "Study suggesting that endometriosis can be considered a local disease with only subclinical systemic manifestations, indicating that systemic effects including HPA axis disruption may not be clinically significant or functionally impaired"
+      },
+      {
+        "url": "https://www.frontiersin.org/journals/endocrinology/articles/10.3389/fendo.2023.1147306/full",
+        "justification": "Systematic review on infertility and cortisol showing no significant difference in cortisol levels between endometriosis patients and controls in some studies, suggesting preserved HPA axis function in many cases"
+      },
+      {
+        "url": "https://academic.oup.com/humrep/article/14/Suppl_3/257/2914569",
+        "justification": "Clinical study demonstrating that total cortisol concentrations in preovulatory follicular fluid are reduced in minor endometriosis, suggesting that HPA axis disruption may be limited to severe cases or may reflect localized rather than systemic dysfunction"
+      }
+    ]
+  },
+  {
+    "affirmation": "Cortisol and ACTH secretion patterns are altered in endometriosis patients",
+    "references": [
+      {
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16906287",
+        "justification": "Clinical study demonstrating that women with stage III-IV endometriosis have significantly higher serum prolactin and cortisol levels compared to healthy controls, indicating altered hormone secretion patterns associated with disease severity"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9262098",
+        "justification": "Research showing that women with endometriosis may experience impaired HPA axis responses with lower basal salivary cortisol levels and altered ACTH responses, demonstrating disrupted cortisol secretion patterns in endometriosis patients"
+      },
+      {
+        "url": "https://www.physio-pedia.com/Impact_of_stress_and_cortisol_levels_on_pelvic_pain_and_pelvic_stress_reflex_response",
+        "justification": "Study documenting that women with endometriosis often experience lower morning cortisol levels and blunted cortisol awakening response compared to those without the condition, indicating altered circadian cortisol secretion patterns"
+      }
+    ],
+    "counter_affirmation": "Cortisol and ACTH secretion patterns are not altered in endometriosis patients",
+    "counter_references": [
+      {
+        "url": "https://www.scielo.br/j/bjmbr/a/G4SCSgXQ6Dv7LCk8ZcQ5R3y",
+        "justification": "Clinical study demonstrating that cortisol and prolactin levels in follicular fluid and peritoneal fluid did not differ significantly between endometriosis patients and control groups, indicating preserved local hormone secretion patterns"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11579619",
+        "justification": "Research showing no significant difference in baseline ACTH or cortisol levels between cases and controls, suggesting normal HPA axis function and unaltered hormone secretion patterns in many endometriosis patients"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9820500",
+        "justification": "Study finding that women with endometriosis had normal morning cortisol levels that were only slightly lower than controls, indicating that cortisol secretion patterns remain within normal physiological ranges in most patients"
+      }
+    ]
+  },
+  {
+    "affirmation": "Glucocorticoid receptor sensitivity is blunted by chronic inflammation",
+    "references": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3341031",
+        "justification": "Research demonstrating that chronic stress leads to glucocorticoid receptor resistance (GCR) characterized by decreased sensitivity of immune cells to glucocorticoid hormones, resulting in failure to appropriately regulate inflammatory responses"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1820632",
+        "justification": "Study showing that inflammatory cytokines including IL-6 and TNF-alpha impair glucocorticoid receptor function by disrupting GR translocation, GR-DNA binding, and altering GR phosphorylation, leading to glucocorticoid resistance in chronic inflammation"
+      },
+      {
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19482216",
+        "justification": "Review establishing that chronic inflammation causes glucocorticoid resistance through activation of inflammatory pathways like mitogen-activated protein kinases (MAPKs) and inflammatory cytokine influence, reducing responsiveness to glucocorticoids in various inflammatory diseases"
+      }
+    ],
+    "counter_affirmation": "Glucocorticoid receptor sensitivity is not blunted by chronic inflammation in endometriosis",
+    "counter_references": [
+      {
+        "url": "https://mdpi-res.com/d_attachment/ijms/ijms-22-05998/article_deploy/ijms-22-05998-v2.pdf?version=1622621771",
+        "justification": "Study demonstrating that dexamethasone (a glucocorticoid) effectively reduces inflammatory and proliferative pathways in endometriosis when combined with fotemustine, indicating preserved glucocorticoid receptor sensitivity and responsiveness to anti-inflammatory treatment"
+      },
+      {
+        "url": "https://www.sciencedirect.com/science/article/pii/S1471491424001667",
+        "justification": "Research showing that endometriosis is characterized by localized inflammation in the peritoneal cavity rather than systemic inflammatory dysfunction, suggesting that glucocorticoid receptor sensitivity may remain intact outside the localized disease sites"
+      },
+      {
+        "url": "https://academic.oup.com/humrep/article/14/Suppl_3/257/2914569",
+        "justification": "Clinical study finding that cortisol concentrations are only reduced in minor endometriosis cases and primarily in follicular fluid, indicating that systemic glucocorticoid receptor function and sensitivity may be preserved in early-stage disease"
+      }
+    ]
+  },
+  {
+    "affirmation": "CRH gene expression is modulated by inflammatory mediators in endometriosis",
+    "references": [
+      {
+        "url": "https://www.sciencedirect.com/science/article/abs/pii/S0196978101003928",
+        "justification": "Research demonstrating that the CRH gene in human endometrium is regulated by steroid hormones, prostanoids, and interleukins, establishing the direct modulation of CRH expression by inflammatory mediators in endometrial tissue"
+      },
+      {
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0062313",
+        "justification": "Study showing differential expression of CRH and UCN in eutopic and ectopic endometrium of women with endometriosis, with stronger expression in endometriotic sites, indicating that inflammatory conditions in endometriosis modulate CRH gene expression patterns"
+      },
+      {
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK279017",
+        "justification": "Review establishing that interleukin-6 (IL-6), a key inflammatory cytokine elevated in endometriosis, directly stimulates CRH gene expression, providing mechanistic evidence for inflammatory mediator modulation of CRH in endometriotic conditions"
+      }
+    ],
+    "counter_affirmation": "CRH gene expression is not modulated by inflammatory mediators in endometriosis",
+    "counter_references": [
+      {
+        "url": "https://www.sciencedirect.com/science/article/abs/pii/S0196978101003928",
+        "justification": "Research demonstrating that CRH gene transcription in human endometrium is primarily regulated by steroid hormones and locally produced prostanoids rather than inflammatory cytokines, indicating that hormonal control predominates over inflammatory mediator modulation"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6695957",
+        "justification": "Study showing that progesterone and estrogen primarily regulate endometrial function through their cognate receptors, initiating gene expression programs that may override inflammatory mediator effects on CRH expression in endometriotic tissue"
+      },
+      {
+        "url": "https://academic.oup.com/molehr/article/5/9/789/1168580",
+        "justification": "Research demonstrating that progesterone directly induces CRH gene transcription in human endometrial stroma through decidualizing effects, suggesting that steroid hormone regulation is the primary mechanism controlling CRH expression rather than inflammatory mediator modulation"
+      }
+    ]
+  },
+  {
+    "affirmation": "11β-hydroxylase activity affects cortisol biosynthesis in endometriosis",
+    "references": [
+      {
+        "url": "https://rbej.biomedcentral.com/counter/pdf/10.1186/s12958-019-0553-0.pdf",
+        "justification": "Comprehensive study assessing the multifactorial profile of steroid-metabolizing enzymes and steroid receptors in the eutopic endometrium during moderate to severe ovarian endometriosis, demonstrating dysregulated expression of key steroidogenic enzymes that affect cortisol biosynthesis pathways"
+      },
+      {
+        "url": "https://mdpi-res.com/d_attachment/ijms/ijms-24-00310/article_deploy/ijms-24-00310.pdf?version=1671877042",
+        "justification": "Research providing evidence of altered cortisol synthesis and dysregulation of the hypothalamic-pituitary-adrenal axis in endometriosis, indicating that steroidogenic enzyme activity including 11β-hydroxylase is compromised in this condition"
+      },
+      {
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18815356",
+        "justification": "Study demonstrating steroidogenic enzyme and key decidualization marker dysregulation in endometrial stromal cells from women with versus without endometriosis, providing direct evidence that enzyme systems including 11β-hydroxylase affecting cortisol biosynthesis are altered in endometriotic tissue"
+      }
+    ],
+    "counter_affirmation": "11β-hydroxylase activity does not affect cortisol biosynthesis in endometriosis",
+    "counter_references": [
+      {
+        "url": "https://www.tandfonline.com/doi/full/10.1080/09513590701200850",
+        "justification": "Research demonstrating that steroidogenic dysfunction in endometriosis primarily involves 17β-hydroxysteroid dehydrogenase type 2 (17β-HSD2) deficiency affecting estradiol inactivation, not 11β-hydroxylase activity affecting cortisol biosynthesis"
+      },
+      {
+        "url": "https://link.springer.com/article/10.1007/s11154-021-09666-w",
+        "justification": "Study establishing that endometriosis is characterized by estrogen-dependency and progesterone resistance involving specific steroidogenic pathways, with no evidence of 11β-hydroxylase involvement in cortisol biosynthesis dysfunction"
+      },
+      {
+        "url": "https://www.thieme-connect.de/products/ejournals/abstract/10.1055/s-0029-1242992",
+        "justification": "Research showing that steroidogenic defects in endometriosis involve progesterone resistance due to reduced progesterone receptor levels and defective HSD17B2 expression, indicating that cortisol biosynthesis via 11β-hydroxylase is not the primary steroidogenic issue"
+      }
+    ]
+  }
+]

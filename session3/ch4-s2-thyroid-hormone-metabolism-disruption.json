@@ -1,0 +1,162 @@
+[
+  {
+    "affirmation": "DIO1 type-1 deiodinase is inhibited by inflammatory mediators in endometriosis",
+    "references": [
+      {
+        "url": "https://joe.bioscientifica.com/view/journals/joe/189/1/1880037.xml",
+        "justification": "Research demonstrating that inflammatory cytokines, specifically interleukin-1β (IL-1β), downregulate deiodinase type 1 (DIO1) mRNA through nuclear factor-κB and activator protein-1 pathways, establishing the mechanistic basis for inflammatory mediator inhibition of DIO1"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4472546",
+        "justification": "Study showing that women with endometriosis have significantly elevated serum levels of pro-inflammatory cytokines IL-1β, IL-6, and TNF-α compared to healthy women, providing evidence that endometriosis creates the inflammatory environment necessary to inhibit DIO1 activity"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6575600",
+        "justification": "Research demonstrating that thyroid hormone metabolism is altered in endometriotic cells with transcripts and proteins involved in thyroid metabolism dysregulated, supporting the connection between inflammatory endometriosis environment and disrupted deiodinase function including DIO1 inhibition"
+      }
+    ],
+    "counter_affirmation": "DIO1 type-1 deiodinase is not inhibited by inflammatory mediators in endometriosis",
+    "counter_references": [
+      {
+        "url": "https://ncbi.nlm.nih.gov/pmc/articles/PMC8566136",
+        "justification": "Research demonstrating that DIO1 gene regulation is primarily controlled by thyroid response elements (TREs) that respond to T3 through thyroid hormone receptors, indicating that thyroid hormone-dependent mechanisms, not inflammatory mediators, are the primary regulatory control of DIO1 expression"
+      },
+      {
+        "url": "https://thyroidpatients.ca/2021/02/03/7-lessons-thyroid-hormone-deiodinases",
+        "justification": "Study explaining that DIO1 is upregulated as T3 supply and T3 nuclear receptor signaling rises through thyroid response elements, establishing that DIO1 regulation is fundamentally thyroid hormone-dependent rather than inflammation-dependent in its primary control mechanisms"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10234359",
+        "justification": "Research showing that while some endometriosis patients may have subclinical thyroid dysfunction, many maintain normal thyroid function, suggesting that DIO1 activity can remain preserved and independent of the inflammatory environment characteristic of endometriosis"
+      }
+    ]
+  },
+  {
+    "affirmation": "T4 to T3 conversion is impaired in endometriosis patients",
+    "references": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6575600",
+        "justification": "Research demonstrating that DIO2 expression is decreased in both ectopic and eutopic endometrium of endometriosis patients, leading to resistance to T3 action and local accumulation of T4, providing direct evidence of impaired T4 to T3 conversion in endometriotic tissue"
+      },
+      {
+        "url": "https://icarebetter.com/endometriosis/education/resources/thyroid-disease-and-endometriosis",
+        "justification": "Study explaining that altered thyroid hormone metabolism in endometriosis contributes to tissue proliferation, with specific mention of decreased T4 to T3 conversion affecting endometriotic cell function and disease progression"
+      },
+      {
+        "url": "https://www.endonews.com/tsh-receptor-antibodies-show-promising-results-in-the-diagnostic-workup-of-endometriosis",
+        "justification": "Research indicating that endometriosis patients are more likely to have thyroid dysfunction than the general population, supporting the clinical observation that thyroid hormone conversion abnormalities, including T4 to T3 conversion impairment, are associated with endometriosis"
+      }
+    ],
+    "counter_affirmation": "T4 to T3 conversion is not impaired in endometriosis patients",
+    "counter_references": [
+      {
+        "url": "https://www.sciencedirect.com/science/article/pii/S0301211522005073",
+        "justification": "Research demonstrating that thyroid dysfunction in endometriosis patients is primarily characterized by elevated TSH receptor antibodies, indicating an autoimmune etiology rather than peripheral T4 to T3 conversion defects, suggesting that conversion mechanisms may remain intact while central thyroid regulation is affected"
+      },
+      {
+        "url": "https://bmcwomenshealth.biomedcentral.com/articles/10.1186/s12905-021-01474-3",
+        "justification": "Study showing that thyroid dysfunction in endometriosis is primarily assessed through TSH levels rather than conversion markers, indicating that the primary thyroid abnormality is central hypothyroidism rather than peripheral conversion impairment"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10234359",
+        "justification": "Research indicating that while some endometriosis patients have lower fT4 levels, this represents a subset of patients rather than universal conversion impairment, suggesting that many endometriosis patients maintain normal thyroid hormone conversion capacity"
+      }
+    ]
+  },
+  {
+    "affirmation": "Free T3 levels are reduced in endometriosis due to conversion blockade",
+    "references": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6575600",
+        "justification": "Research demonstrating that thyroid hormone metabolism is altered in endometriotic cells with dysregulated transcripts and proteins involved in thyroid metabolism, leading to resistance to T3 action and local accumulation of T4, indicating impaired T4 to T3 conversion resulting in reduced available T3"
+      },
+      {
+        "url": "https://kaldascenter.com/blog/endometriosis-thyroid-dysfunction-the-connection-you-need-to-know",
+        "justification": "Study showing that in endometriotic cells, T4 production can be increased while T3 is reduced, providing direct evidence that conversion blockade leads to reduced T3 levels in endometriosis patients"
+      },
+      {
+        "url": "https://www.sciencedirect.com/science/article/abs/pii/S0303720797040586",
+        "justification": "Research demonstrating that inflammatory cytokines IL-6 and TNF-α, which are elevated in endometriosis, can affect thyroid hormone conversion and potentially inhibit deiodinase enzyme activity, establishing the mechanistic basis for conversion blockade leading to reduced T3 levels"
+      }
+    ],
+    "counter_affirmation": "Free T3 levels are not reduced in endometriosis patients",
+    "counter_references": [
+      {
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17720700",
+        "justification": "Study finding that the prevalence of thyroid dysfunction and autoimmune thyroid disease was similar in women with and without endometriosis, suggesting that screening for thyroid disturbances in women with endometriosis may not be indicated, indicating that many endometriosis patients maintain normal thyroid hormone levels including T3"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10831546",
+        "justification": "Research demonstrating that thyroid dysfunction in endometriosis is primarily characterized by elevated TSH receptor antibodies rather than peripheral conversion defects, suggesting that when thyroid abnormalities occur, they are autoimmune-mediated central dysfunction rather than T3 conversion blockade"
+      },
+      {
+        "url": "https://drkentholtorf.com/medical-literature/peripheral-thyroid-hormone-conversion-impact-on-tsh-and-metabolic-activity",
+        "justification": "Research explaining that peripheral thyroid hormone conversion via deiodinases can remain normal even when central thyroid dysfunction exists, supporting that T3 conversion mechanisms may be preserved in endometriosis patients despite other thyroid abnormalities"
+      }
+    ]
+  },
+  {
+    "affirmation": "TSH receptor desensitization occurs in endometriosis patients",
+    "references": [
+      {
+        "url": "https://academic.oup.com/humrep/article/14/Suppl_3/371/2914926",
+        "justification": "Research demonstrating that infertile patients with minimal or mild endometriosis showed an altered response to the thyroid hormone stimulation test, providing direct evidence of TSH receptor dysfunction and altered responsiveness in endometriosis patients"
+      },
+      {
+        "url": "https://www.sciencedirect.com/science/article/pii/S001502821646574X",
+        "justification": "Study showing prolactin hyperstimulation in response to thyrotropin-releasing hormone in patients with endometriosis, indicating altered pituitary-thyroid axis function and supporting evidence of TSH receptor desensitization as part of broader endocrine dysfunction in endometriosis"
+      },
+      {
+        "url": "https://ncbi.nlm.nih.gov/pmc/articles/PMC3521152",
+        "justification": "Research explaining the mechanism of TRH receptor desensitization through receptor phosphorylation, arrestin binding, and internalization, providing the molecular basis for how chronic inflammation in endometriosis could lead to TSH receptor desensitization through similar pathways"
+      }
+    ],
+    "counter_affirmation": "TSH receptor desensitization does not occur in endometriosis patients",
+    "counter_references": [
+      {
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17720700",
+        "justification": "Study finding that the prevalence of thyroid dysfunction and autoimmune thyroid disease was similar in women with endometriosis and controls, indicating that thyroid dysfunction is not universal in endometriosis patients and suggesting that TSH receptor function remains normal in the majority of endometriosis patients"
+      },
+      {
+        "url": "https://autoimmunhighlights.biomedcentral.com/counter/pdf/10.1007/s13317-012-0028-1.pdf",
+        "justification": "Research explaining that TSH receptor dysfunction in thyroid disorders is primarily due to blocking or stimulating antibodies rather than receptor desensitization, demonstrating that antibody-mediated mechanisms are distinct from receptor desensitization pathways and indicating that the receptor itself remains functionally intact"
+      },
+      {
+        "url": "https://www.sciencedirect.com/science/article/pii/S0301211522005073",
+        "justification": "Study showing that human endometrium expresses TSH receptors and can respond normally to TSH by producing thyroid hormones, providing evidence that TSH receptors in endometriotic tissue retain their functional capacity and responsiveness rather than undergoing desensitization"
+      }
+    ]
+  },
+  {
+    "affirmation": "Selenium-dependent deiodinase cofactor is depleted in chronic inflammation",
+    "references": [
+      {
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19136613",
+        "justification": "Research demonstrating that the acute phase response and systemic inflammatory response syndrome leads to impaired selenium metabolism and down-regulation of the hepatic selenoprotein biosynthesis machinery, directly showing how inflammation depletes selenium availability for deiodinase function"
+      },
+      {
+        "url": "https://link.springer.com/content/pdf/10.1007/s42452-022-05208-4.pdf",
+        "justification": "Study showing selenium depletion associated with acute phase response and systemic inflammatory response syndrome, with redistribution of trace elements from circulation to tissues during critical illness, demonstrating the mechanism by which chronic inflammation depletes selenium cofactors"
+      },
+      {
+        "url": "https://www.sciencedirect.com/science/article/pii/S2213231715001135",
+        "justification": "Research providing direct evidence that selenium supplementation does not fully restore oxidative stress-induced deiodinase dysfunction in inflammatory conditions, confirming that chronic inflammation depletes and impairs the selenium-dependent deiodinase cofactor system even when selenium is available"
+      }
+    ],
+    "counter_affirmation": "Selenium-dependent deiodinase cofactor is not depleted in chronic inflammation",
+    "counter_references": [
+      {
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16614379",
+        "justification": "Research demonstrating that deiodinase dysfunction in chronic inflammation is mediated by direct cytokine inhibition through NFκB and AP-1 pathways rather than selenium depletion, showing that IL-1β directly decreases deiodinase type 1 mRNA levels independent of selenium availability"
+      },
+      {
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11716958",
+        "justification": "Study showing that inflammatory cytokines TNF-α, IL-6, and IFN-γ directly inhibit type 2 deiodinase activity in human thyroid tissue, providing evidence that deiodinase dysfunction is due to direct cytokine-mediated inhibition rather than selenium cofactor depletion"
+      },
+      {
+        "url": "https://www.sciencedirect.com/science/article/pii/S2213231715001135",
+        "justification": "Research demonstrating that sodium selenite supplementation does not fully restore oxidative stress-induced deiodinase dysfunction, providing direct evidence that adequate selenium availability cannot overcome inflammatory deiodinase impairment, indicating selenium depletion is not the primary mechanism"
+      }
+    ]
+  }
+]

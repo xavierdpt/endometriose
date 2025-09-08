@@ -1,0 +1,130 @@
+[
+  {
+    "affirmation": "Endometriosis occurs when endometrial tissue implants and grows outside the uterus",
+    "references": [
+      {
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK278996",
+        "justification": ""
+      },
+      {
+        "url": "https://www.who.int/news-room/fact-sheets/detail/endometriosis",
+        "justification": ""
+      },
+      {
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24294950",
+        "justification": ""
+      }
+    ],
+    "counter_affirmation": "Endometriosis is not caused by ectopic endometrial tissue but by other cellular mechanisms",
+    "counter_references": [
+      {
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35207704",
+        "justification": ""
+      },
+      {
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1853899",
+        "justification": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10001466",
+        "justification": ""
+      }
+    ]
+  },
+  {
+    "affirmation": "Retrograde menstruation is the primary mechanism for ectopic endometrial tissue dissemination",
+    "references": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10001466",
+        "justification": "Comprehensive review confirming Sampson's retrograde menstruation theory as the main pathogenetic mechanism for endometriosis, where menstrual blood flows backward through fallopian tubes into peritoneal cavity"
+      },
+      {
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16990031",
+        "justification": "PubMed study examining the role of endometrium in endometriosis pathogenesis, supporting retrograde menstruation as primary mechanism for ectopic endometrial tissue dissemination"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11277188",
+        "justification": "Recent 2024 review on pathogenesis of endometriosis confirming retrograde menstruation as the most commonly accepted theory for endometrial tissue dissemination and implantation in peritoneal cavity"
+      }
+    ],
+    "counter_affirmation": "Retrograde menstruation is not the primary mechanism for endometriosis development",
+    "counter_references": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12113382",
+        "justification": "Recent 2024 review demonstrating that endometriosis has multifactorial pathogenesis involving genetic, immune, and epigenetic factors beyond retrograde menstruation alone"
+      },
+      {
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12771450",
+        "justification": "PubMed study specifically questioning Sampson's retrograde menstruation hypothesis, highlighting limitations in explaining endometriosis in males, prepubertal girls, and extrapelvic locations"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6888544",
+        "justification": "Comprehensive review on molecular and cell biology aspects of endometriosis pathogenesis, showing evidence for alternative mechanisms including coelomic metaplasia and Müllerian remnants theories"
+      }
+    ]
+  },
+  {
+    "affirmation": "Aromatase (CYP19A1) is upregulated in endometriotic lesions leading to local estrogen production",
+    "references": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6780031",
+        "justification": "Comprehensive review on local estrogen formation in endometriosis, demonstrating that aromatase activity is not detectable in normal endometrium but is highly expressed in endometriotic tissue, leading to local estrogen biosynthesis"
+      },
+      {
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15083380",
+        "justification": "PubMed study showing that aromatase (CYP19A1) is the key enzyme for estrogen biosynthesis in endometriotic tissue, with local estrogen production stimulated by prostaglandin E2 in a positive feedback loop"
+      },
+      {
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35591944",
+        "justification": "Recent 2022 study on site-specific regulation of aromatase pathways in endometriosis, demonstrating that CYP19A1 is detected in all endometriosis tissues at higher levels than in control tissue"
+      }
+    ],
+    "counter_affirmation": "Aromatase expression is not significantly different in endometriotic lesions compared to normal endometrium",
+    "counter_references": [
+      {
+        "url": "https://www.frontiersin.org/articles/10.3389/fmolb.2022.854991/full",
+        "justification": "Study showing that deep infiltrating endometriotic lesions (DIE) either fail to express aromatase or show reduced expression, indicating heterogeneous rather than uniform upregulation"
+      },
+      {
+        "url": "https://rbej.biomedcentral.com/counter/pdf/10.1186/s12958-019-0553-0.pdf",
+        "justification": "Research highlighting variability in aromatase expression and methodological issues in endometriosis research, suggesting that conflicting conclusions may arise from different study conditions"
+      },
+      {
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16595205",
+        "justification": "Study using laser capture microdissection showing complex patterns of aromatase mRNA expression with significant differences between epithelial and stromal cells, questioning uniform expression patterns"
+      }
+    ]
+  },
+  {
+    "affirmation": "VEGF-mediated angiogenesis is essential for endometriotic lesion survival and growth",
+    "references": [
+      {
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9688413",
+        "justification": "Fundamental PubMed study establishing VEGF as key regulator of angiogenesis in endometriosis, demonstrating that formation of new blood vessels is essential for survival and growth of endometrial implants"
+      },
+      {
+        "url": "https://ncbi.nlm.nih.gov/pmc/articles/PMC2852133",
+        "justification": "Comprehensive review on mechanistic implications of angiogenesis in endometriosis, confirming that neovascularization is crucial for growth and survival of endometrial lesions outside the uterus"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9016174",
+        "justification": "Recent 2022 review on endometriosis-associated angiogenesis showing elevated VEGF levels in peritoneal fluid and endometriotic lesions, supporting VEGF's essential role in lesion vascularization and growth"
+      }
+    ],
+    "counter_affirmation": "VEGF-mediated angiogenesis is not essential for endometriotic lesion survival and growth",
+    "counter_references": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12086256",
+        "justification": "Research highlighting that compensatory pro-angiogenic pathways can emerge to limit the effectiveness of anti-VEGF therapy, suggesting multiple pathways contribute to endometriotic lesion vascularization beyond VEGF alone"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10828998",
+        "justification": "Comprehensive review showing that endometriosis angiogenesis involves various factors including IL-1β, IL-6, and multiple growth factors beyond VEGF, indicating complex non-VEGF dependent mechanisms for lesion survival"
+      },
+      {
+        "url": "https://academic.oup.com/humupd/article/18/6/682/627018",
+        "justification": "Review on anti-angiogenic treatment strategies acknowledging challenges in VEGF-targeted therapy and the need for alternative approaches, suggesting VEGF alone may not be essential for endometriotic lesion maintenance"
+      }
+    ]
+  }
+]
