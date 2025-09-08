@@ -103,3 +103,16 @@ node content-initializer.js --overwrite-all
 - This program should be run after `file-initializer.js` has created the empty subtopic files and all JSON files have been properly configured with `subtopic_file` fields
 
 
+
+
+# Synthesis and Conclusions
+
+[This section must explains which claims of the Pathophysiological Analysis section are substantiated by the reference assessments, contradicted by the reference assessments, or lacking evidence. When lacking evidence, it must explain if the lacking evidence is indirectly substantiated or contradicted by the references (and how), or requires looking for additional references.]
+
+# Pathophysiological Analysis (Revised)
+
+[This section must contain a revision of the Pathophysiological Analysis section that takes into account everything that has been said in the assessments and in the synthesis and conclusions, and cite the references that are applicable. It must still be three paragraphs.]
+
+
+
+Instead of using Reference 1, 2, etc.., include the file name without the extension in the reference, e.g Reference {filename}/1. Update this document accordingly.
