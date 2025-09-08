@@ -1,6 +1,7 @@
 [
   {
     "affirmation": "DIO1 type-1 deiodinase is inhibited by inflammatory mediators in endometriosis",
+    "subtopic_file": "dio1-deiodin",
     "references": [
       {
         "url": "https://joe.bioscientifica.com/view/journals/joe/189/1/1880037.xml",
@@ -33,6 +34,7 @@
   },
   {
     "affirmation": "T4 to T3 conversion is impaired in endometriosis patients",
+    "subtopic_file": "t4-t3-convert",
     "references": [
       {
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6575600",
@@ -65,6 +67,7 @@
   },
   {
     "affirmation": "Free T3 levels are reduced in endometriosis due to conversion blockade",
+    "subtopic_file": "free-t3-redu",
     "references": [
       {
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6575600",
@@ -97,6 +100,7 @@
   },
   {
     "affirmation": "TSH receptor desensitization occurs in endometriosis patients",
+    "subtopic_file": "tsh-rec-desen",
     "references": [
       {
         "url": "https://academic.oup.com/humrep/article/14/Suppl_3/371/2914926",
@@ -129,6 +133,7 @@
   },
   {
     "affirmation": "Selenium-dependent deiodinase cofactor is depleted in chronic inflammation",
+    "subtopic_file": "selen-cofact",
     "references": [
       {
         "url": "https://pubmed.ncbi.nlm.nih.gov/19136613",

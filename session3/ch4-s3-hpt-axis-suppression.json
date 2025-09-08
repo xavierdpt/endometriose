@@ -1,6 +1,7 @@
 [
   {
     "affirmation": "TRH gene expression is suppressed by inflammation in endometriosis",
+    "subtopic_file": "trh-suppress",
     "references": [
       {
         "url": "https://joe.bioscientifica.com/view/journals/joe/191/3/1910707.xml",
@@ -33,6 +34,7 @@
   },
   {
     "affirmation": "Elevated cortisol dampens thyroid hormone synthesis in endometriosis",
+    "subtopic_file": "cortisol-thy",
     "references": [
       {
         "url": "https://ncbi.nlm.nih.gov/pmc/articles/PMC8003177",
@@ -65,6 +67,7 @@
   },
   {
     "affirmation": "Pituitary TRH receptors are downregulated in chronic inflammation",
+    "subtopic_file": "trh-downreg",
     "references": [
       {
         "url": "https://academic.oup.com/ejendo/article-abstract/141/4/337/6750666",
@@ -97,6 +100,7 @@
   },
   {
     "affirmation": "Thyroid peroxidase activity is inhibited by inflammatory mediators",
+    "subtopic_file": "tpo-inhibit",
     "references": [
       {
         "url": "https://academic.oup.com/jcem/article-abstract/74/6/1331/2655386",
@@ -129,6 +133,7 @@
   },
   {
     "affirmation": "Central T3 receptor resistance develops in endometriosis patients",
+    "subtopic_file": "t3-resist",
     "references": [
       {
         "url": "https://endometriose.app/en/hypothyroidism-and-endometriosis",

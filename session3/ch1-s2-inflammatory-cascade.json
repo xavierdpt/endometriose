@@ -1,6 +1,7 @@
 [
   {
     "affirmation": "Endometriotic lesions trigger local inflammatory responses with IL-1β, IL-6, and TNF-α release",
+    "subtopic_file": "il-inflam",
     "references": [
       {
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7826862",
@@ -33,6 +34,7 @@
   },
   {
     "affirmation": "COX-2 upregulation in endometriosis leads to increased PGE2 synthesis",
+    "subtopic_file": "cox2-pge2",
     "references": [
       {
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6909960",
@@ -65,6 +67,7 @@
   },
   {
     "affirmation": "Macrophages are recruited to endometriotic lesions through prostaglandin-dependent mechanisms",
+    "subtopic_file": "macro-recruit",
     "references": [
       {
         "url": "https://www.fertstert.org/article/S0015-0282(02)03130-8/fulltext",
@@ -97,6 +100,7 @@
   },
   {
     "affirmation": "NF-κB pathway activation is central to endometriosis-associated inflammation",
+    "subtopic_file": "nfkb-pathway",
     "references": [
       {
         "url": "https://www.fertstert.org/article/S0015-0282(10)00073-7/fulltext",
@@ -129,6 +133,7 @@
   },
   {
     "affirmation": "Estrogen amplifies cytokine production in endometriotic tissue",
+    "subtopic_file": "estro-cytokine",
     "references": [
       {
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4519769",

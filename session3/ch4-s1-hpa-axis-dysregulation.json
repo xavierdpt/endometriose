@@ -1,6 +1,7 @@
 [
   {
     "affirmation": "Chronic inflammation in endometriosis disrupts normal HPA axis function",
+    "subtopic_file": "hpa-disrupt",
     "references": [
       {
         "url": "https://www.sciencedirect.com/science/article/abs/pii/S1567576924004600",
@@ -33,6 +34,7 @@
   },
   {
     "affirmation": "Cortisol and ACTH secretion patterns are altered in endometriosis patients",
+    "subtopic_file": "cortisol-acth",
     "references": [
       {
         "url": "https://pubmed.ncbi.nlm.nih.gov/16906287",
@@ -65,6 +67,7 @@
   },
   {
     "affirmation": "Glucocorticoid receptor sensitivity is blunted by chronic inflammation",
+    "subtopic_file": "glucocort-rec",
     "references": [
       {
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3341031",
@@ -97,6 +100,7 @@
   },
   {
     "affirmation": "CRH gene expression is modulated by inflammatory mediators in endometriosis",
+    "subtopic_file": "crh-gene",
     "references": [
       {
         "url": "https://www.sciencedirect.com/science/article/abs/pii/S0196978101003928",
@@ -129,6 +133,7 @@
   },
   {
     "affirmation": "11β-hydroxylase activity affects cortisol biosynthesis in endometriosis",
+    "subtopic_file": "11b-hydroxyl",
     "references": [
       {
         "url": "https://rbej.biomedcentral.com/counter/pdf/10.1186/s12958-019-0553-0.pdf",

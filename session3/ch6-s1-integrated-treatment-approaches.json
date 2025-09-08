@@ -1,6 +1,7 @@
 [
   {
     "affirmation": "Multi-pathway targeting is necessary for effective endometriosis treatment",
+    "subtopic_file": "multi-target",
     "references": [
       {
         "url": "https://mefj.springeropen.com/articles/10.1186/s43043-025-00219-8",
@@ -33,6 +34,7 @@
   },
   {
     "affirmation": "NF-κB pathway inhibition reduces systemic inflammation in endometriosis",
+    "subtopic_file": "nfkb-inhibit",
     "references": [
       {
         "url": "https://karger.com/goi/article-abstract/63/2/71/151956/Nuclear-Factor-B-NF-B-An-Unsuspected-Major-Culprit",
@@ -65,6 +67,7 @@
   },
   {
     "affirmation": "Gut microbiome restoration improves outcomes in endometriosis patients",
+    "subtopic_file": "microbiome-r",
     "references": [
       {
         "url": "https://www.scielo.org.mx/scielo.php?script=sci_abstract&pid=S0300-90412024000600252&lng=es&nrm=iso&tlng=en",
@@ -97,6 +100,7 @@
   },
   {
     "affirmation": "Bile acid sequestration mechanisms help restore normal gut-liver axis function",
+    "subtopic_file": "bile-sequest",
     "references": [
       {
         "url": "https://www.mdpi.com/2076-2607/8/6/925",
@@ -129,6 +133,7 @@
   },
   {
     "affirmation": "Thyroid hormone optimization addresses metabolic dysfunction in endometriosis",
+    "subtopic_file": "thyroid-optim",
     "references": [
       {
         "url": "https://ncbi.nlm.nih.gov/pmc/articles/PMC6575600",

@@ -1,6 +1,7 @@
 [
   {
     "affirmation": "Reduced GI motility in endometriosis leads to bacterial stasis and SIBO development",
+    "subtopic_file": "sibo-stasis",
     "references": [
       {
         "url": "https://internationalendo.com/endometriosis-sibo",
@@ -33,6 +34,7 @@
   },
   {
     "affirmation": "Endometriosis patients show altered intestinal microbiome composition",
+    "subtopic_file": "microbiome-alt",
     "references": [
       {
         "url": "https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-024-03503-y",
@@ -65,6 +67,7 @@
   },
   {
     "affirmation": "Host-microbe homeostasis is disrupted in endometriosis leading to bacterial translocation",
+    "subtopic_file": "microbe-homeos",
     "references": [
       {
         "url": "https://www.mdpi.com/1422-0067/22/11/5644",
@@ -97,6 +100,7 @@
   },
   {
     "affirmation": "Bile acid metabolism is altered in endometriosis-associated SIBO",
+    "subtopic_file": "bile-metabol",
     "references": [
       {
         "url": "https://cmjournal.biomedcentral.com/counter/pdf/10.1186/s13020-023-00795-9.pdf",

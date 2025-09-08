@@ -1,6 +1,7 @@
 [
   {
     "affirmation": "Precision medicine based on individual inflammatory profiles improves treatment outcomes",
+    "subtopic_file": "precision-med",
     "references": [
       {
         "url": "https://www.frontiersin.org/articles/10.3389/fimmu.2021.770462/pdf",
@@ -33,6 +34,7 @@
   },
   {
     "affirmation": "Microbiome-targeted therapies show promise in endometriosis treatment",
+    "subtopic_file": "microbiome-t",
     "references": [
       {
         "url": "https://raf.bioscientifica.com/view/journals/raf/5/2/RAF-23-0085.xml",
@@ -65,6 +67,7 @@
   },
   {
     "affirmation": "Short-chain fatty acids and bile acids serve as important metabolomic biomarkers",
+    "subtopic_file": "scfa-bile-bio",
     "references": [
       {
         "url": "https://www.frontiersin.org/articles/10.3389/fcell.2021.703218/pdf",
@@ -97,6 +100,7 @@
   },
   {
     "affirmation": "Immune checkpoint modulation represents a novel therapeutic approach",
+    "subtopic_file": "immune-check",
     "references": [
       {
         "url": "https://www.benthamscience.com/article/94306",
@@ -129,6 +133,7 @@
   },
   {
     "affirmation": "Ceramide and D-glucuronobiosidase are promising biomarkers for endometriosis monitoring",
+    "subtopic_file": "ceramide-dgb",
     "references": [
       {
         "url": "https://pubmed.ncbi.nlm.nih.gov/22859507",

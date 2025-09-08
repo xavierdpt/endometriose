@@ -1,6 +1,7 @@
 [
   {
     "affirmation": "SIBO in endometriosis patients leads to increased LPS and flagellin release from gram-negative bacteria",
+    "subtopic_file": "lps-flagellin",
     "references": [
       {
         "url": "https://mdpi-res.com/d_attachment/microorganisms/microorganisms-10-00960/article_deploy/microorganisms-10-00960-v2.pdf",
@@ -33,6 +34,7 @@
   },
   {
     "affirmation": "TLR4 activation by bacterial components triggers the MyD88 signaling pathway",
+    "subtopic_file": "tlr4-myd88",
     "references": [
       {
         "url": "https://ncbi.nlm.nih.gov/pmc/articles/PMC1782563",
@@ -65,6 +67,7 @@
   },
   {
     "affirmation": "NF-κB pathway activation leads to cytokine storm in endometriosis-SIBO patients",
+    "subtopic_file": "cytokine-strm",
     "references": [
       {
         "url": "https://www.fertstert.org/article/S0015-0282(07)01255-1/fulltext",
@@ -97,6 +100,7 @@
   },
   {
     "affirmation": "JAK-STAT3 pathway is stimulated by bacterial endotoxins amplifying inflammation",
+    "subtopic_file": "jak-stat3",
     "references": [
       {
         "url": "https://www.frontiersin.org/articles/10.3389/fnut.2021.649640/pdf",

@@ -1,6 +1,7 @@
 [
   {
     "affirmation": "Endometriosis occurs when endometrial tissue implants and grows outside the uterus",
+    "subtopic_file": "endo-implant",
     "references": [
       {
         "url": "https://www.ncbi.nlm.nih.gov/books/NBK278996",
@@ -33,6 +34,7 @@
   },
   {
     "affirmation": "Retrograde menstruation is the primary mechanism for ectopic endometrial tissue dissemination",
+    "subtopic_file": "retro-menstru",
     "references": [
       {
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10001466",
@@ -65,6 +67,7 @@
   },
   {
     "affirmation": "Aromatase (CYP19A1) is upregulated in endometriotic lesions leading to local estrogen production",
+    "subtopic_file": "aromatase-est",
     "references": [
       {
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6780031",
@@ -97,6 +100,7 @@
   },
   {
     "affirmation": "VEGF-mediated angiogenesis is essential for endometriotic lesion survival and growth",
+    "subtopic_file": "vegf-angio",
     "references": [
       {
         "url": "https://pubmed.ncbi.nlm.nih.gov/9688413",

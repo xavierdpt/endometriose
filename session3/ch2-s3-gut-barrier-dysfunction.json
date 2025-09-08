@@ -1,6 +1,7 @@
 [
   {
     "affirmation": "Endometriosis is associated with increased intestinal permeability",
+    "subtopic_file": "intestinal-per",
     "references": [
       {
         "url": "https://ncbi.nlm.nih.gov/pmc/articles/PMC5905157",
@@ -33,6 +34,7 @@
   },
   {
     "affirmation": "Zonulin levels are elevated in endometriosis leading to tight junction disassembly",
+    "subtopic_file": "zonulin-tight",
     "references": [
       {
         "url": "https://www.endofound.org/is-there-a-link-between-leaky-gut-and-endo-this-researcher-thinks-so",
@@ -65,6 +67,7 @@
   },
   {
     "affirmation": "Claudin and occludin proteins are degraded in endometriosis-associated leaky gut",
+    "subtopic_file": "claudin-occlu",
     "references": [
       {
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9581388",
@@ -97,6 +100,7 @@
   },
   {
     "affirmation": "Systemic bacterial translocation occurs through compromised gut barrier in endometriosis",
+    "subtopic_file": "bac-translocn",
     "references": [
       {
         "url": "https://ncbi.nlm.nih.gov/pmc/articles/PMC6260591",

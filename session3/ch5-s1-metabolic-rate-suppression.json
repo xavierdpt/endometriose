@@ -1,6 +1,7 @@
 [
   {
     "affirmation": "T3-mediated cellular metabolism is reduced in endometriosis patients leading to fatigue",
+    "subtopic_file": "t3-metab-fat",
     "references": [
       {
         "url": "https://endometriose.app/en/hypothyroidism-and-endometriosis",
@@ -33,6 +34,7 @@
   },
   {
     "affirmation": "Mitochondrial function is impaired in endometriosis contributing to reduced ATP synthesis",
+    "subtopic_file": "mito-atp-red",
     "references": [
       {
         "url": "https://ncbi.nlm.nih.gov/pmc/articles/PMC8788578",
@@ -65,6 +67,7 @@
   },
   {
     "affirmation": "Thermogenesis and energy expenditure are decreased in endometriosis patients",
+    "subtopic_file": "thermo-energy",
     "references": [
       {
         "url": "https://pubmed.ncbi.nlm.nih.gov/27628219",
@@ -97,6 +100,7 @@
   },
   {
     "affirmation": "Mitochondrial respiratory chain is dysfunctional in endometriosis",
+    "subtopic_file": "mito-resp-dys",
     "references": [
       {
         "url": "https://rbej.biomedcentral.com/articles/10.1186/s12958-019-0513-8",
@@ -129,6 +133,7 @@
   },
   {
     "affirmation": "Fatty acid oxidation is impaired contributing to metabolic dysfunction",
+    "subtopic_file": "fatty-oxid",
     "references": [
       {
         "url": "https://pubs.acs.org/doi/10.1021/acs.jproteome.6b00197",

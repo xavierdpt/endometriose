@@ -1,6 +1,7 @@
 [
   {
     "affirmation": "Endometriosis is characterized by a shift from Th1 to Th2/Th17 immune dominance",
+    "subtopic_file": "th-shift",
     "references": [
       {
         "url": "https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2023.1128301/full",
@@ -33,6 +34,7 @@
   },
   {
     "affirmation": "Foxp3-positive regulatory T cells are functionally impaired in endometriosis",
+    "subtopic_file": "foxp3-treg",
     "references": [
       {
         "url": "https://pubmed.ncbi.nlm.nih.gov/28575420",
@@ -65,6 +67,7 @@
   },
   {
     "affirmation": "NK cell cytotoxicity is reduced in endometriosis patients",
+    "subtopic_file": "nk-cytotox",
     "references": [
       {
         "url": "https://pubmed.ncbi.nlm.nih.gov/2065804",
@@ -97,6 +100,7 @@
   },
   {
     "affirmation": "IL-10 anti-inflammatory signaling is disrupted in endometriosis",
+    "subtopic_file": "il10-antiinfl",
     "references": [
       {
         "url": "https://academic.oup.com/jcem/article/89/10/5094/2844496",
@@ -129,6 +133,7 @@
   },
   {
     "affirmation": "Transcription factors T-bet, GATA3, and RORγt show altered balance in endometriosis",
+    "subtopic_file": "transc-factrs",
     "references": [
       {
         "url": "https://link.springer.com/article/10.1177/1933719112466297",
