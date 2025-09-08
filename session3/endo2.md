@@ -1,3 +1,6 @@
+Stopped at aromatase-est, reference 3
+
+
 # Next steps
 
 For each affirmation in the json files, we want a new markdown file in the folder subtopics for this affirmation.
@@ -103,7 +106,9 @@ node content-initializer.js --overwrite-all
 - This program should be run after `file-initializer.js` has created the empty subtopic files and all JSON files have been properly configured with `subtopic_file` fields
 
 
+Read this document and fill the Pathophysiological Analysis section, do not use web search.
 
+Use fetch webpage and perform the assessesment for reference 1 (one paragraph).
 
 # Synthesis and Conclusions
 
