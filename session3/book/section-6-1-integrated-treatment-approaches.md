@@ -1,6 +1,6 @@
 # 6.1 Integrated Treatment Approaches
 
-## Multi-Target Therapeutic Strategies and Systems-Based Medicine
+## 6.1.1 Multi-Target Therapeutic Strategies and Systems-Based Medicine
 
 The complex, multi-system nature of endometriosis-associated SIBO and chronic fatigue syndrome requires comprehensive treatment approaches that simultaneously address multiple pathological pathways rather than targeting individual symptoms or isolated mechanisms. This systems-based approach recognizes that the interconnected nature of inflammatory, metabolic, hormonal, and neurological dysfunction creates therapeutic challenges that cannot be adequately addressed through single-target interventions, necessitating coordinated multi-modal treatment strategies that can interrupt multiple pathological feedback loops simultaneously.
 
@@ -18,7 +18,7 @@ Cost-effectiveness considerations become important for integrated treatment appr
 
 Evidence-based integration requires the careful evaluation of scientific evidence for individual treatment components and their combinations, recognizing that evidence for multi-modal approaches may be limited compared to single-agent studies. This necessitates the thoughtful application of mechanistic understanding, clinical experience, and patient-specific factors to guide treatment decisions when high-quality clinical trial data may not be available for specific treatment combinations.
 
-## Anti-Inflammatory Intervention Strategies and Pathway Targeting
+## 6.1.2 Anti-Inflammatory Intervention Strategies and Pathway Targeting
 
 Comprehensive anti-inflammatory strategies form a cornerstone of integrated treatment approaches for endometriosis-associated chronic inflammation, requiring interventions that can address multiple inflammatory pathways simultaneously while avoiding the immunosuppressive effects that can worsen infectious complications such as SIBO. Effective anti-inflammatory interventions must target the specific inflammatory mechanisms that drive disease progression while preserving protective immune functions and supporting the resolution of inflammatory processes.
 
@@ -36,7 +36,7 @@ Inflammasome inhibition strategies can target the NLRP3 inflammasome and other i
 
 Matrix metalloproteinase (MMP) inhibition can reduce tissue damage and prevent the breakdown of extracellular matrix components that contribute to inflammatory amplification and tissue dysfunction. Natural MMP inhibitors including green tea polyphenols and specific pharmaceutical MMP inhibitors can provide protective effects against inflammatory tissue damage while supporting normal tissue repair processes.
 
-## Gut Microbiome Restoration and SIBO Treatment Protocols
+## 6.1.3 Gut Microbiome Restoration and SIBO Treatment Protocols
 
 Gut microbiome restoration represents a fundamental component of integrated treatment approaches because the bacterial overgrowth and dysbiosis associated with endometriosis-related gastrointestinal dysfunction serve as ongoing sources of inflammatory activation and immune system dysfunction. Effective microbiome restoration requires comprehensive protocols that can eliminate pathogenic bacteria, restore beneficial microbial populations, and create intestinal environments that support long-term microbiome stability and health.
 
@@ -54,7 +54,7 @@ Intestinal barrier restoration requires interventions that can repair tight junc
 
 Motility enhancement strategies become important for preventing SIBO recurrence by addressing the underlying gastrointestinal motility dysfunction that contributes to bacterial stasis and overgrowth. Prokinetic agents, dietary modifications, and interventions that support normal migrating motor complex function can help maintain normal intestinal clearance and prevent bacterial accumulation.
 
-## Hormonal Optimization and Endocrine System Support
+## 6.1.4 Hormonal Optimization and Endocrine System Support
 
 Hormonal optimization represents a critical component of integrated treatment approaches because the endocrine dysfunction associated with chronic inflammation, stress, and metabolic impairment contributes significantly to symptom severity and disease progression. Comprehensive hormonal support requires assessment and optimization of multiple endocrine systems including thyroid function, adrenal function, reproductive hormones, and metabolic hormones that work together to support normal physiological function.
 
@@ -72,7 +72,7 @@ Reproductive hormone balance becomes important for managing endometriosis progre
 
 Estrogen metabolism optimization can help reduce the estrogenic stimulation that drives endometriosis progression through support of healthy estrogen detoxification pathways and reduction of inflammatory factors that promote aromatase activity. Interventions may include cruciferous vegetable compounds, specific nutrients that support estrogen metabolism, and reduction of xenoestrogen exposure.
 
-## Metabolic Support and Mitochondrial Function Enhancement
+## 6.1.5 Metabolic Support and Mitochondrial Function Enhancement
 
 Metabolic support and mitochondrial function enhancement represent essential components of integrated treatment approaches because the profound metabolic dysfunction and energy production deficits associated with chronic inflammation contribute substantially to fatigue symptoms and reduced functional capacity. Comprehensive metabolic support requires interventions that can restore cellular energy production, improve substrate utilization, and support the metabolic pathways that are impaired by inflammatory processes.
 
@@ -90,7 +90,7 @@ Antioxidant system support becomes essential for protecting mitochondria from ox
 
 Metabolic flexibility restoration involves interventions that can improve the ability to switch between different metabolic substrates based on availability and metabolic demands. This may include dietary interventions that train metabolic flexibility, targeted nutrients that support substrate switching, and addressing factors that impair normal metabolic adaptation.
 
-## Nutritional Interventions and Targeted Supplementation
+## 6.1.6 Nutritional Interventions and Targeted Supplementation
 
 Nutritional interventions form a fundamental component of integrated treatment approaches because many of the nutrients required for normal immune function, metabolic processes, and inflammatory resolution become depleted in chronic inflammatory conditions, while specific therapeutic nutrients can provide direct anti-inflammatory and health-promoting effects. Comprehensive nutritional support requires both addressing nutritional deficiencies and providing therapeutic levels of specific nutrients that can support healing and recovery processes.
 
@@ -108,7 +108,7 @@ Magnesium supplementation can provide multiple therapeutic benefits including su
 
 B-vitamin complex optimization becomes essential for supporting energy metabolism, nervous system function, and methylation pathways that are often impaired in chronic inflammatory conditions. Specific attention should be given to vitamin B12, folate, and vitamin B6, which are often deficient and play critical roles in energy production and nervous system health.
 
-## Stress Reduction and Nervous System Regulation
+## 6.1.7 Stress Reduction and Nervous System Regulation
 
 Stress reduction and nervous system regulation represent critical components of integrated treatment approaches because chronic stress responses contribute significantly to inflammatory perpetuation, immune dysfunction, and symptom exacerbation in endometriosis-associated chronic illness. Effective stress management requires interventions that can address both psychological stress responses and physiological stress system dysfunction, including autonomic nervous system imbalance and hypothalamic-pituitary-adrenal axis dysregulation.
 
@@ -126,7 +126,7 @@ Sleep optimization represents a critical component of stress reduction because s
 
 Circadian rhythm regulation through light therapy, meal timing, and sleep-wake schedule optimization can help restore normal biological rhythms that are often disrupted in chronic illness. Proper circadian rhythm function is essential for optimal hormone production, immune function, and stress resilience.
 
-## Exercise and Movement Therapy Adaptations
+## 6.1.8 Exercise and Movement Therapy Adaptations
 
 Exercise and movement therapy require careful adaptation for individuals with endometriosis-associated chronic fatigue because traditional exercise prescriptions may exceed the limited exercise tolerance and energy production capacity of affected individuals, potentially leading to post-exertional malaise and symptom exacerbation. Therapeutic exercise protocols must be designed to provide health benefits while respecting physiological limitations and avoiding overexertion that can worsen symptoms.
 
@@ -144,7 +144,7 @@ Movement quality and functional movement training can help address movement dysf
 
 Post-exertional malaise prevention requires careful attention to exercise intensity, duration, and recovery to avoid the characteristic worsening of symptoms that can occur 12-48 hours after exertion in individuals with chronic fatigue. Exercise protocols must be conservative and individualized to prevent this problematic response while still providing health benefits.
 
-## Monitoring and Assessment Protocols for Integrated Care
+## 6.1.9 Monitoring and Assessment Protocols for Integrated Care
 
 Comprehensive monitoring and assessment protocols are essential for integrated treatment approaches to track therapeutic progress across multiple biological systems, identify treatment responses and adverse effects, and guide treatment optimization decisions. Effective monitoring requires objective measures of inflammatory status, metabolic function, hormonal balance, and clinical symptoms that can provide quantitative feedback on treatment effectiveness and guide therapeutic adjustments.
 

@@ -1,6 +1,6 @@
 # 1.2 Inflammatory Cascade Initiation
 
-## Local Tissue Damage and Initial Inflammatory Response
+## 1.2.1 Local Tissue Damage and Initial Inflammatory Response
 
 The establishment of endometrial implants in ectopic locations triggers immediate local tissue damage through multiple mechanisms that collectively initiate a robust inflammatory response. The physical presence of foreign endometrial tissue disrupts normal anatomical structures, leading to mechanical trauma, cellular injury, and the release of damage-associated molecular patterns (DAMPs) that signal tissue distress to the immune system.
 
@@ -10,7 +10,7 @@ The damaged tissue environment becomes characterized by altered oxygen tension, 
 
 The cellular response to tissue damage involves the activation of resident tissue macrophages, fibroblasts, and endothelial cells, which serve as the first responders to inflammatory stimuli. These cells undergo rapid phenotypic changes that enhance their capacity to produce inflammatory mediators, recruit additional immune cells, and coordinate the inflammatory response. The activation of these resident cell populations establishes the foundation for sustained inflammatory activity.
 
-## Immune System Activation and Recognition
+## 1.2.2 Immune System Activation and Recognition
 
 The immune system's recognition of endometrial implants as foreign or damaged tissue involves pattern recognition receptors (PRRs) that detect both pathogen-associated molecular patterns (PAMPs) and damage-associated molecular patterns (DAMPs). Toll-like receptors (TLRs), particularly TLR2 and TLR4, play central roles in recognizing molecular signatures associated with tissue damage and cellular stress within endometrial lesions.
 
@@ -20,7 +20,7 @@ Complement system activation represents another important mechanism of immune re
 
 The adaptive immune system becomes engaged through the presentation of endometrial antigens by activated dendritic cells, leading to T cell activation and the development of specific immune responses. However, this adaptive response is often dysregulated in endometriosis, leading to inadequate clearance of ectopic tissue and the establishment of chronic inflammatory conditions. The failure of effective immune surveillance contributes to the persistence and progression of endometrial implants.
 
-## Pro-inflammatory Mediator Release
+## 1.2.3 Pro-inflammatory Mediator Release
 
 The release of pro-inflammatory mediators represents a central feature of endometriosis pathophysiology, with interleukin-1 beta (IL-1β), interleukin-6 (IL-6), and tumor necrosis factor-alpha (TNF-α) serving as key orchestrators of the inflammatory response. These cytokines are produced by multiple cell types within endometrial lesions, including activated macrophages, endometrial stromal cells, and infiltrating immune cells.
 
@@ -30,7 +30,7 @@ IL-6 functions as a pleiotropic cytokine that regulates both local inflammatory 
 
 TNF-α serves as a master regulator of inflammatory responses, coordinating multiple aspects of the inflammatory cascade through its effects on gene expression, cell survival, and immune cell function. TNF-α signaling activates NF-κB and AP-1 transcription factors, leading to the upregulation of numerous inflammatory genes and the amplification of cytokine production. The sustained production of TNF-α in endometrial lesions contributes to chronic inflammation and tissue damage.
 
-## Macrophage Recruitment and Activation
+## 1.2.4 Macrophage Recruitment and Activation
 
 Macrophage recruitment to endometrial implants occurs through chemotactic signals produced by activated tissue cells and represents a critical step in the establishment of chronic inflammatory foci. Monocyte chemoattractant protein-1 (MCP-1/CCL2) serves as the primary chemokine responsible for recruiting circulating monocytes to sites of endometrial implantation, where they differentiate into tissue macrophages.
 
@@ -40,7 +40,7 @@ Activated macrophages within endometrial lesions serve multiple functions that c
 
 The persistence of macrophages within endometrial lesions creates a chronic inflammatory environment that supports ongoing tissue damage and repair cycles. Macrophage-derived mediators influence the behavior of surrounding cells, including endometrial cells, fibroblasts, and endothelial cells, creating a complex network of cellular interactions that sustain inflammatory activity and promote tissue remodeling.
 
-## Establishment of Chronic Inflammatory Foci
+## 1.2.5 Establishment of Chronic Inflammatory Foci
 
 The transition from acute to chronic inflammation in endometriosis involves the establishment of persistent inflammatory foci that resist resolution and continue to produce inflammatory mediators over extended periods. These chronic inflammatory sites become characterized by the sustained presence of immune cells, ongoing tissue remodeling, and the continuous production of inflammatory signals.
 
@@ -50,7 +50,7 @@ Chronic inflammatory foci become self-sustaining through positive feedback mecha
 
 The spatial organization of chronic inflammatory foci influences their functional impact on surrounding tissues and their contribution to disease symptoms. Inflammatory aggregates located near nerve fibers contribute to pain generation, while those associated with blood vessels influence angiogenesis and tissue perfusion. The strategic positioning of inflammatory foci within endometrial lesions maximizes their impact on tissue function and disease progression.
 
-## COX-2 Upregulation and PGE2 Synthesis
+## 1.2.6 COX-2 Upregulation and PGE2 Synthesis
 
 Cyclooxygenase-2 (COX-2) upregulation represents a key inflammatory mechanism in endometriosis, leading to enhanced production of prostaglandin E2 (PGE2) and other inflammatory lipid mediators. COX-2 expression is induced by multiple inflammatory signals, including cytokines, growth factors, and mechanical stress, creating a coordinated response that amplifies inflammatory activity within endometrial lesions.
 
@@ -60,7 +60,7 @@ PGE2 synthesis through COX-2 activity creates a potent inflammatory mediator tha
 
 The feedback regulation between PGE2 and other inflammatory mediators creates amplification loops that sustain and intensify inflammatory responses. PGE2 can stimulate the production of additional cytokines and growth factors while simultaneously promoting the expression of COX-2 itself, creating positive feedback circuits that maintain chronic inflammatory activity.
 
-## Prostaglandin-Dependent Macrophage Recruitment
+## 1.2.7 Prostaglandin-Dependent Macrophage Recruitment
 
 Prostaglandins, particularly PGE2, serve as potent chemotactic factors that enhance macrophage recruitment to endometrial implants and influence their functional activation. PGE2 signaling through EP2 and EP4 receptors on monocytes and macrophages promotes their migration toward sites of prostaglandin production while simultaneously modulating their activation state and functional capabilities.
 
@@ -70,7 +70,7 @@ Prostaglandin signaling influences macrophage polarization toward the M2 phenoty
 
 The sustained production of prostaglandins within endometrial lesions maintains ongoing macrophage recruitment and activation, contributing to the chronic nature of endometriosis-associated inflammation. This continuous influx of macrophages provides a renewable source of inflammatory mediators and tissue remodeling factors that support disease progression.
 
-## NF-κB Pathway Activation
+## 1.2.8 NF-κB Pathway Activation
 
 Nuclear factor kappa B (NF-κB) pathway activation serves as a central hub for inflammatory signaling in endometriosis, integrating signals from multiple inflammatory stimuli and coordinating the transcriptional response to inflammation. The NF-κB family of transcription factors regulates the expression of numerous inflammatory genes, including cytokines, chemokines, adhesion molecules, and enzymes involved in inflammatory mediator synthesis.
 
@@ -80,7 +80,7 @@ The non-canonical NF-κB pathway provides additional regulatory mechanisms that 
 
 NF-κB activation in endometrial lesions leads to the upregulation of numerous inflammatory mediators that amplify and sustain inflammatory responses. Target genes include those encoding cytokines (IL-1β, IL-6, TNF-α), chemokines (MCP-1, IL-8), adhesion molecules (ICAM-1, VCAM-1), and enzymes (COX-2, iNOS) that collectively create and maintain inflammatory microenvironments.
 
-## MAPK Signaling Cascade
+## 1.2.9 MAPK Signaling Cascade
 
 Mitogen-activated protein kinase (MAPK) signaling cascades play crucial roles in transducing inflammatory signals and regulating cellular responses to inflammatory stimuli in endometriosis. The three major MAPK pathways - ERK1/2, p38, and JNK - each contribute distinct aspects of inflammatory signaling and cellular adaptation to inflammatory conditions.
 
@@ -90,7 +90,7 @@ The p38 MAPK pathway serves as a key mediator of stress responses and inflammato
 
 JNK signaling contributes to inflammatory responses through its regulation of AP-1 transcription factor activity and its role in cellular stress responses. JNK activation influences the expression of inflammatory genes and contributes to cellular decisions regarding survival versus apoptosis in inflammatory microenvironments.
 
-## Estrogen-Mediated Cytokine Amplification
+## 1.2.10 Estrogen-Mediated Cytokine Amplification
 
 Estrogen signaling creates a powerful amplification mechanism for cytokine production and inflammatory responses in endometriosis through its effects on inflammatory gene expression and immune cell function. Estrogen receptor activation enhances the transcription of numerous inflammatory genes while simultaneously suppressing anti-inflammatory pathways, creating a pro-inflammatory bias that sustains chronic inflammation.
 

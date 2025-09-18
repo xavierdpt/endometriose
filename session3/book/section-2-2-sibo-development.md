@@ -1,6 +1,6 @@
 # 2.2 Development of Small Intestinal Bacterial Overgrowth
 
-## Altered Motility Leading to Bacterial Stasis
+## 2.2.1 Altered Motility Leading to Bacterial Stasis
 
 The development of small intestinal bacterial overgrowth (SIBO) in endometriosis is fundamentally driven by alterations in intestinal motility that create conditions favorable for bacterial proliferation and colonization of the normally sterile or sparsely populated small intestine. The migrating motor complex (MMC), a pattern of coordinated contractions that occurs during fasting periods, serves as the primary mechanism for maintaining bacterial clearance from the small intestine under normal physiological conditions.
 
@@ -12,7 +12,7 @@ Hormonal influences on intestinal motility, particularly the effects of elevated
 
 The loss of normal motility patterns also affects the clearance of secretions and cellular debris from the small intestine, creating additional nutrient sources for bacterial growth. The accumulation of undigested food particles, sloughed epithelial cells, and secretory products provides substrate for bacterial fermentation and supports the establishment of complex bacterial communities within the small intestinal environment.
 
-## Bacterial Community Composition Changes
+## 2.2.2 Bacterial Community Composition Changes
 
 The development of SIBO in endometriosis involves significant alterations in the composition and diversity of bacterial communities within the small intestine, with shifts from the normal sparse population of primarily aerobic bacteria to dense communities dominated by anaerobic and facultatively anaerobic species typically found in the colon. These compositional changes reflect both the altered environmental conditions within the small intestine and the selective pressures created by inflammation and altered host immune responses.
 
@@ -24,7 +24,7 @@ The diversity of bacterial communities often becomes reduced in SIBO, with the l
 
 Pathogenic and opportunistic bacterial species can establish significant populations in the altered environment of SIBO, including species that are normally present in low numbers or completely absent from the healthy small intestine. These pathogenic bacteria can produce toxins, proteases, and other virulence factors that directly damage intestinal tissues and contribute to barrier dysfunction and inflammatory activation.
 
-## Bacterial 16S rRNA Gene Expression Changes
+## 2.2.3 Bacterial 16S rRNA Gene Expression Changes
 
 The 16S ribosomal RNA gene serves as a universal molecular marker for bacterial identification and phylogenetic analysis, and changes in 16S rRNA gene expression patterns reflect fundamental alterations in bacterial community structure and metabolic activity during SIBO development. These molecular changes provide insights into the specific bacterial species involved in SIBO and their functional contributions to disease pathogenesis.
 
@@ -36,7 +36,7 @@ The expression of variable regions within the 16S rRNA gene provides species-lev
 
 Temporal analysis of 16S rRNA gene expression patterns reveals dynamic changes in bacterial community structure that occur throughout the development and progression of SIBO. Early colonization events often involve different bacterial species than those that predominate in established SIBO, reflecting succession patterns and competitive interactions within evolving bacterial communities.
 
-## Disruption of Bile Acid Metabolism
+## 2.2.4 Disruption of Bile Acid Metabolism
 
 Bile acids play crucial roles in maintaining small intestinal sterility through their antimicrobial properties and their effects on bacterial membrane integrity. In endometriosis-associated SIBO, the normal bile acid metabolism becomes significantly disrupted through multiple mechanisms involving altered hepatic synthesis, impaired ileal absorption, and bacterial deconjugation of bile salts, creating conditions that favor bacterial overgrowth while compromising normal digestive function.
 
@@ -48,7 +48,7 @@ Bacterial transformation of primary bile acids into secondary bile acids occurs 
 
 The altered bile acid metabolism in SIBO affects lipid digestion and absorption through reduced bile acid concentrations and altered bile acid composition within the intestinal lumen. This malabsorption of dietary lipids can contribute to nutritional deficiencies and gastrointestinal symptoms while providing additional substrate for bacterial fermentation and growth. The malabsorption of fat-soluble vitamins (A, D, E, and K) represents a particularly important consequence of disrupted bile acid metabolism.
 
-## Antimicrobial Peptide Dysregulation
+## 2.2.5 Antimicrobial Peptide Dysregulation
 
 The intestinal epithelium produces various antimicrobial peptides that serve as important components of innate immune defense against bacterial overgrowth, including defensins, lysozyme, lactoferrin, and secretory phospholipase A2. In endometriosis-associated SIBO, the production and function of these antimicrobial peptides become significantly dysregulated through inflammatory mediator effects and altered epithelial cell function, compromising the natural antimicrobial barrier and facilitating bacterial colonization.
 
@@ -60,7 +60,7 @@ Lysozyme, an enzyme that cleaves peptidoglycan in bacterial cell walls, becomes 
 
 The RegIII family of antimicrobial proteins, including RegIIIα and RegIIIγ, play important roles in maintaining spatial separation between bacterial communities and intestinal epithelial cells. In endometriosis-associated SIBO, the expression and function of RegIII proteins become altered, leading to loss of the normal barrier that prevents bacterial translocation and direct bacterial-epithelial contact. This loss of spatial organization contributes to bacterial translocation and enhanced inflammatory activation.
 
-## Bacterial Adherence Receptor Upregulation
+## 2.2.6 Bacterial Adherence Receptor Upregulation
 
 The adherence of bacteria to intestinal epithelial cells represents a critical step in the establishment of stable bacterial populations within the small intestine, and the upregulation of bacterial adherence receptors on epithelial cell surfaces facilitates this colonization process in endometriosis-associated SIBO. Various cellular receptors and adhesion molecules become upregulated in inflammatory conditions, providing increased binding sites for bacterial adhesins and promoting bacterial colonization.
 
@@ -72,7 +72,7 @@ Mucin receptors and glycoprotein binding sites become altered in endometriosis-a
 
 Cytokine-induced expression of cellular adhesion molecules, including ICAM-1 and VCAM-1, can serve as binding sites for bacterial adhesins and facilitate bacterial colonization. These molecules are upregulated in response to inflammatory signals and can significantly enhance bacterial adherence to epithelial surfaces. The temporal patterns of adhesion molecule expression can influence the succession of bacterial species during SIBO development.
 
-## Host-Microbe Homeostasis Breakdown
+## 2.2.7 Host-Microbe Homeostasis Breakdown
 
 The normal relationship between the intestinal microbiota and the host immune system involves complex regulatory mechanisms that maintain beneficial bacterial populations while preventing overgrowth and pathogenic colonization. In endometriosis-associated SIBO, this delicate homeostatic balance becomes disrupted through alterations in immune regulation, epithelial barrier function, and microbial community dynamics, leading to the establishment of pathogenic bacterial populations.
 
@@ -84,7 +84,7 @@ Epithelial cell communication with bacterial communities through pattern recogni
 
 The metabolic interactions between host cells and bacterial communities become disrupted in SIBO, with alterations in the production and utilization of bacterial metabolites that normally support intestinal health. Short-chain fatty acids, amino acid derivatives, and other bacterial products that normally support epithelial cell function and immune regulation may be produced in inappropriate amounts or by inappropriate bacterial species, leading to metabolic dysfunction and tissue damage.
 
-## Bacterial Translocation Mechanisms
+## 2.2.8 Bacterial Translocation Mechanisms
 
 Bacterial translocation, the passage of viable bacteria or bacterial products across the intestinal barrier into systemic circulation, represents a critical consequence of SIBO that contributes to systemic inflammation and distant organ dysfunction in endometriosis. Multiple mechanisms facilitate bacterial translocation in SIBO, including increased intestinal permeability, impaired immune clearance, and active bacterial invasion processes that enable bacteria to breach the normally effective intestinal barrier.
 
@@ -96,7 +96,7 @@ Lymphatic translocation represents an important route for bacterial disseminatio
 
 Portal circulation provides a direct route for bacterial translocation from the intestinal tract to the liver, where translocated bacteria encounter hepatic immune defenses including Kupffer cells and other macrophage populations. In endometriosis-associated SIBO, increased bacterial translocation can overwhelm hepatic clearance mechanisms, leading to bacterial seeding of the liver and the development of hepatic inflammation and dysfunction.
 
-## Metabolic Consequences of Bacterial Overgrowth
+## 2.2.9 Metabolic Consequences of Bacterial Overgrowth
 
 The metabolic activity of overgrown bacterial populations within the small intestine produces various byproducts that significantly affect both local intestinal function and systemic metabolism. These bacterial metabolites include organic acids, gases, alcohols, and various toxic compounds that can directly damage intestinal tissues while contributing to the symptoms and complications associated with SIBO in endometriosis patients.
 
@@ -108,7 +108,7 @@ Alcohol production by certain bacterial species, particularly yeasts and some ba
 
 Toxic metabolic byproducts, including various amines, phenolic compounds, and bacterial toxins, are produced by overgrown bacterial populations and can contribute to both local tissue damage and systemic toxicity. These compounds can affect neurotransmitter function, contribute to cognitive symptoms, and interfere with normal cellular metabolism. The accumulation of toxic bacterial metabolites represents an important mechanism by which SIBO contributes to systemic symptoms in endometriosis patients.
 
-## Nutrient Malabsorption and Deficiency States
+## 2.2.10 Nutrient Malabsorption and Deficiency States
 
 Bacterial overgrowth within the small intestine interferes with normal nutrient absorption through multiple mechanisms including direct bacterial consumption of nutrients, damage to absorptive epithelial surfaces, and alterations in the chemical environment that affect nutrient solubility and transport. These malabsorption processes can lead to clinically significant nutrient deficiencies that contribute to the systemic symptoms and complications associated with endometriosis-related SIBO.
 

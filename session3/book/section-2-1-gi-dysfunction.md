@@ -1,6 +1,6 @@
 # 2.1 Gastrointestinal Dysfunction in Endometriosis
 
-## Mechanical Effects of Adhesions on Bowel Motility
+## 2.1.1 Mechanical Effects of Adhesions on Bowel Motility
 
 The formation of fibrous adhesions represents one of the most significant mechanisms by which endometriosis disrupts normal gastrointestinal function, creating physical constraints that fundamentally alter the mechanics of intestinal motility. Adhesive bands formed between bowel segments and other pelvic structures create fixed points of attachment that prevent the normal peristaltic movements required for effective digestive function, leading to segmental dysmotility and altered transit patterns.
 
@@ -12,7 +12,7 @@ The development of adhesive complexes can create closed-loop obstructions or are
 
 The cumulative effect of multiple adhesive points throughout the gastrointestinal tract creates complex patterns of dysmotility that affect the coordinated function of the entire digestive system. The loss of normal anatomical relationships between different bowel segments disrupts the intricate timing and coordination required for effective digestive processes, leading to symptoms that may seem disproportionate to the apparent extent of local disease.
 
-## Inflammatory Mediator Effects on Intestinal Function
+## 2.1.2 Inflammatory Mediator Effects on Intestinal Function
 
 The chronic inflammatory environment associated with endometriosis produces a complex array of inflammatory mediators that directly affect gastrointestinal function through multiple mechanisms involving smooth muscle function, neural control, and mucosal integrity. Pro-inflammatory cytokines, including interleukin-1β (IL-1β), interleukin-6 (IL-6), and tumor necrosis factor-alpha (TNF-α), exert profound effects on intestinal physiology that extend far beyond their local sites of production.
 
@@ -24,7 +24,7 @@ Prostaglandin E2 (PGE2), produced in abundance within endometriotic lesions, sig
 
 The inflammatory mediator milieu in endometriosis also includes numerous chemokines and growth factors that affect intestinal function through effects on cellular proliferation, differentiation, and survival. These factors can alter the normal turnover and function of intestinal epithelial cells, affecting barrier function and contributing to symptoms of malabsorption and altered gut permeability.
 
-## Enteric Nervous System Neurotransmitter Disruption
+## 2.1.3 Enteric Nervous System Neurotransmitter Disruption
 
 The enteric nervous system, often referred to as the "second brain," contains more neurons than the spinal cord and is responsible for coordinating the complex patterns of motility, secretion, and blood flow that characterize normal gastrointestinal function. In endometriosis, the inflammatory environment significantly disrupts enteric nervous system function through effects on neurotransmitter synthesis, release, and signaling, leading to profound alterations in gastrointestinal physiology.
 
@@ -36,7 +36,7 @@ Substance P and other tachykinins, which normally contribute to the coordination
 
 The complex interactions between different neurotransmitter systems within the enteric nervous system become disrupted by chronic inflammation, leading to loss of the precise coordination required for normal gastrointestinal function. This disruption affects not only motility patterns but also the integration of sensory information and the coordination of responses to luminal contents, contributing to symptoms of dyspepsia, bloating, and altered bowel habits.
 
-## Serotonin Signaling Alterations
+## 2.1.4 Serotonin Signaling Alterations
 
 Serotonin (5-hydroxytryptamine, 5-HT) plays a central role in gastrointestinal physiology, with approximately 95% of the body's serotonin being produced by enterochromaffin cells within the intestinal mucosa. In endometriosis, the inflammatory environment significantly alters serotonin signaling through effects on synthesis, release, uptake, and receptor function, contributing to the complex pattern of gastrointestinal dysfunction observed in this condition.
 
@@ -48,7 +48,7 @@ The serotonin transporter (SERT) is responsible for the reuptake and inactivatio
 
 The multiple serotonin receptor subtypes (5-HT1 through 5-HT7) mediate different aspects of gastrointestinal function, and their expression and function become altered in endometriosis-associated inflammation. Changes in receptor expression patterns and coupling to intracellular signaling pathways affect the cellular responses to serotonin, contributing to altered motility patterns, secretory dysfunction, and visceral hypersensitivity that characterize endometriosis-associated gastrointestinal symptoms.
 
-## Nitric Oxide Synthase Inhibition and Smooth Muscle Function
+## 2.1.5 Nitric Oxide Synthase Inhibition and Smooth Muscle Function
 
 Nitric oxide (NO) serves as a crucial inhibitory neurotransmitter in the gastrointestinal tract, mediating smooth muscle relaxation and contributing to the coordination of peristaltic reflexes through its effects on the timing and magnitude of muscle contractions. In endometriosis, the production and function of nitric oxide become significantly impaired through multiple mechanisms involving nitric oxide synthase (NOS) inhibition and altered NO signaling pathways.
 
@@ -60,7 +60,7 @@ The bioavailability of nitric oxide becomes significantly reduced in the inflamm
 
 The downstream signaling pathways activated by nitric oxide, including the cyclic GMP-dependent pathways that mediate smooth muscle relaxation, become altered in inflammatory conditions. Changes in the expression and function of guanylyl cyclase, phosphodiesterases, and protein kinase G affect the cellular responses to NO and contribute to impaired smooth muscle function even when NO production remains adequate.
 
-## Smooth Muscle Contraction Pathway Alterations
+## 2.1.6 Smooth Muscle Contraction Pathway Alterations
 
 The coordinated contraction and relaxation of intestinal smooth muscle is essential for normal gastrointestinal motility and depends on complex cellular mechanisms involving calcium signaling, contractile proteins, and regulatory pathways. In endometriosis, chronic inflammation significantly alters these smooth muscle contraction pathways through effects on calcium handling, contractile protein expression, and regulatory mechanisms, leading to dysfunctional motility patterns.
 
@@ -72,7 +72,7 @@ Protein kinase C (PKC) signaling pathways, which play important roles in regulat
 
 The integration of multiple signaling pathways that control smooth muscle function becomes disrupted in chronic inflammation, leading to loss of the precise control mechanisms that normally coordinate intestinal motility. Cross-talk between different signaling systems becomes altered, resulting in inappropriate responses to physiological stimuli and contributing to the development of functional gastrointestinal symptoms.
 
-## Vagal Nerve Dysfunction and Autonomic Dysregulation
+## 2.1.7 Vagal Nerve Dysfunction and Autonomic Dysregulation
 
 The vagus nerve provides essential parasympathetic innervation to the gastrointestinal tract and plays crucial roles in coordinating digestive function, regulating motility patterns, and integrating responses to meal ingestion. In endometriosis, chronic inflammation and anatomical distortions can significantly affect vagal nerve function through direct effects on nerve fibers and indirect effects mediated through inflammatory mediators and altered tissue architecture.
 
@@ -84,7 +84,7 @@ The integration of vagal signaling with enteric nervous system function becomes 
 
 Autonomic imbalance, characterized by altered sympathetic and parasympathetic nervous system function, commonly occurs in endometriosis patients and contributes to gastrointestinal dysfunction through effects on motility, secretion, and visceral sensitivity. This autonomic dysregulation can be both a cause and consequence of chronic pain and inflammation, creating self-perpetuating cycles that maintain and amplify gastrointestinal symptoms.
 
-## Hormonal Modulation of Gastrointestinal Function
+## 2.1.8 Hormonal Modulation of Gastrointestinal Function
 
 The gastrointestinal tract contains receptors for various reproductive hormones, and normal hormonal fluctuations throughout the menstrual cycle influence digestive function through effects on motility, secretion, and sensitivity. In endometriosis, the altered hormonal environment, including elevated local estrogen production and altered progesterone signaling, significantly affects gastrointestinal function and contributes to the cyclical nature of digestive symptoms.
 
@@ -96,7 +96,7 @@ The interaction between reproductive hormones and stress hormones, particularly 
 
 Hormonal influences on gut microbiota composition and function represent an emerging area of understanding that is particularly relevant to endometriosis-associated gastrointestinal dysfunction. Changes in reproductive hormone levels can alter the composition and metabolic activity of intestinal bacteria, potentially contributing to the development of small intestinal bacterial overgrowth (SIBO) and other microbiome-related gastrointestinal symptoms.
 
-## Visceral Hypersensitivity and Pain Mechanisms
+## 2.1.9 Visceral Hypersensitivity and Pain Mechanisms
 
 Visceral hypersensitivity represents a key feature of endometriosis-associated gastrointestinal dysfunction, characterized by enhanced sensitivity to normal physiological stimuli within the digestive tract. This heightened sensitivity contributes to symptoms of abdominal pain, bloating, and discomfort that may be disproportionate to the apparent degree of structural abnormality, reflecting functional changes in pain processing and sensory signaling.
 
@@ -108,7 +108,7 @@ Cross-organ sensitization represents an important mechanism by which endometrios
 
 The psychological and social factors associated with chronic pain and endometriosis can further amplify visceral hypersensitivity through mechanisms involving stress responses, attention, and pain perception. The complex interactions between biological, psychological, and social factors create individualized patterns of symptom expression that can vary significantly between patients and over time within the same patient.
 
-## Disruption of Normal Transit Patterns
+## 2.1.10 Disruption of Normal Transit Patterns
 
 Normal gastrointestinal transit patterns depend on coordinated motility throughout the digestive tract, with precisely timed contractions that propel contents through different regions at appropriate rates for optimal digestion and absorption. In endometriosis, multiple factors combine to disrupt these normal transit patterns, leading to symptoms ranging from rapid transit and diarrhea to delayed transit and constipation.
 
